@@ -1,6 +1,6 @@
 ### Ceriotti, Devolución:
 
-### Ejercicio 1:
+### Ejercicio 2:
 
 **No completado**
 
@@ -13,7 +13,7 @@ Se crea la clase `Program` con el `Main` pero no se ejecuta nada dentro de la fu
 
 ---
 
-### Ejercicio 2:
+### Ejercicio 3:
 
 ### Evaluación Final:
 

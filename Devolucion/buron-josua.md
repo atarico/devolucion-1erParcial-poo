@@ -1,6 +1,6 @@
 ### Buron, Devolución:
 
-### Ejercicio 1:
+### Ejercicio 2:
 
 ### Puntos Positivos
 
@@ -118,7 +118,7 @@ El código tiene una estructura bien organizada y un concepto claro, pero existe
 
 ---
 
-### Ejercicio 2:
+### Ejercicio 3:
 
 **No completado**
 

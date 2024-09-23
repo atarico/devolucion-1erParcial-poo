@@ -1,6 +1,6 @@
 ### Lalli, Devolución:
 
-### Ejercicio 1:
+### Ejercicio 2:
 
 #### Puntos Positivos
 
@@ -54,7 +54,7 @@ La estructura general está bien, pero hay algunas cosas que podrían mejorarse,
 
 ---
 
-### Ejercicio 2:
+### Ejercicio 3:
 
 **Ejercicio NO resuelto**
 

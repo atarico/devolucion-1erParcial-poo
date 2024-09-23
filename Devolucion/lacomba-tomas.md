@@ -1,6 +1,6 @@
 ### Lacomba, Devolución:
 
-#### Ejercicio 1:
+#### Ejercicio 2:
 
 #### Puntos Positivos
 
@@ -47,7 +47,7 @@ El programa se ve bien. Faltaron aplicar 1 pilar fundamental de la programación
 
 ---
 
-### Ejercicio 2:
+### Ejercicio 3:
 
 #### Puntos Positivos
 

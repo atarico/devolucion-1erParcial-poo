@@ -1,6 +1,6 @@
 ### Gomez, Devolución:
 
-### Ejercicio 1:
+### Ejercicio 2:
 
 #### Puntos Positivos
 
@@ -53,7 +53,7 @@ El código está muy bien estructurado y organizado, con pequeños detalles que 
 
 ---
 
-### Ejercicio 2:
+### Ejercicio 3:
 
 #### Puntos Positivos
 
