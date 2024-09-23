@@ -1,0 +1,30 @@
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\bin\Debug\net8.0\Floreria.exe
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\bin\Debug\net8.0\Floreria.deps.json
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\bin\Debug\net8.0\Floreria.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\bin\Debug\net8.0\Floreria.dll
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\bin\Debug\net8.0\Floreria.pdb
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.sourcelink.json
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.dll
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\obj\Debug\net8.0\refint\Floreria.dll
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.pdb
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\obj\Debug\net8.0\Floreria.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\Floreria\Floreria\obj\Debug\net8.0\ref\Floreria.dll
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\bin\Debug\net8.0\Floreria.exe
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\bin\Debug\net8.0\Floreria.deps.json
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\bin\Debug\net8.0\Floreria.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\bin\Debug\net8.0\Floreria.dll
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\bin\Debug\net8.0\Floreria.pdb
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\obj\Debug\net8.0\Floreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\obj\Debug\net8.0\Floreria.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\obj\Debug\net8.0\Floreria.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\obj\Debug\net8.0\Floreria.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\obj\Debug\net8.0\Floreria.sourcelink.json
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\obj\Debug\net8.0\Floreria.dll
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\obj\Debug\net8.0\refint\Floreria.dll
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\obj\Debug\net8.0\Floreria.pdb
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\obj\Debug\net8.0\Floreria.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\Parcial 17-9\Floreria\Floreria\obj\Debug\net8.0\ref\Floreria.dll

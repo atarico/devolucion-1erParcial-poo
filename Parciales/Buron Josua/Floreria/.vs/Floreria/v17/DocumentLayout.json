@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jburon\\source\\repos\\Floreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5414C98F-5147-4A65-94E8-DF6D0D694DD2}|Floreria\\Floreria.csproj|c:\\users\\jburon\\source\\repos\\floreria\\floreria\\modulos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5414C98F-5147-4A65-94E8-DF6D0D694DD2}|Floreria\\Floreria.csproj|solutionrelative:floreria\\modulos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5414C98F-5147-4A65-94E8-DF6D0D694DD2}|Floreria\\Floreria.csproj|c:\\users\\jburon\\source\\repos\\floreria\\floreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5414C98F-5147-4A65-94E8-DF6D0D694DD2}|Floreria\\Floreria.csproj|solutionrelative:floreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5414C98F-5147-4A65-94E8-DF6D0D694DD2}|Floreria\\Floreria.csproj|c:\\users\\jburon\\source\\repos\\floreria\\floreria\\modulos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5414C98F-5147-4A65-94E8-DF6D0D694DD2}|Floreria\\Floreria.csproj|solutionrelative:floreria\\modulos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5414C98F-5147-4A65-94E8-DF6D0D694DD2}|Floreria\\Floreria.csproj|c:\\users\\jburon\\source\\repos\\floreria\\floreria\\modulos\\flor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5414C98F-5147-4A65-94E8-DF6D0D694DD2}|Floreria\\Floreria.csproj|solutionrelative:floreria\\modulos\\flor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5414C98F-5147-4A65-94E8-DF6D0D694DD2}|Floreria\\Floreria.csproj|c:\\users\\jburon\\source\\repos\\floreria\\floreria\\modulos\\arreglofloral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5414C98F-5147-4A65-94E8-DF6D0D694DD2}|Floreria\\Floreria.csproj|solutionrelative:floreria\\modulos\\arreglofloral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArregloFloral.cs",
+              "DocumentMoniker": "C:\\Users\\jburon\\source\\repos\\Floreria\\Floreria\\Modulos\\ArregloFloral.cs",
+              "RelativeDocumentMoniker": "Floreria\\Modulos\\ArregloFloral.cs",
+              "ToolTip": "C:\\Users\\jburon\\source\\repos\\Floreria\\Floreria\\Modulos\\ArregloFloral.cs",
+              "RelativeToolTip": "Floreria\\Modulos\\ArregloFloral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:45:54.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\jburon\\source\\repos\\Floreria\\Floreria\\Modulos\\Pedido.cs",
+              "RelativeDocumentMoniker": "Floreria\\Modulos\\Pedido.cs",
+              "ToolTip": "C:\\Users\\jburon\\source\\repos\\Floreria\\Floreria\\Modulos\\Pedido.cs",
+              "RelativeToolTip": "Floreria\\Modulos\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:45:37.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\jburon\\source\\repos\\Floreria\\Floreria\\Modulos\\Cliente.cs",
+              "RelativeDocumentMoniker": "Floreria\\Modulos\\Cliente.cs",
+              "ToolTip": "C:\\Users\\jburon\\source\\repos\\Floreria\\Floreria\\Modulos\\Cliente.cs",
+              "RelativeToolTip": "Floreria\\Modulos\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:44:37.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flor.cs",
+              "DocumentMoniker": "C:\\Users\\jburon\\source\\repos\\Floreria\\Floreria\\Modulos\\Flor.cs",
+              "RelativeDocumentMoniker": "Floreria\\Modulos\\Flor.cs",
+              "ToolTip": "C:\\Users\\jburon\\source\\repos\\Floreria\\Floreria\\Modulos\\Flor.cs",
+              "RelativeToolTip": "Floreria\\Modulos\\Flor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:39:37.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jburon\\source\\repos\\Floreria\\Floreria\\Program.cs",
+              "RelativeDocumentMoniker": "Floreria\\Program.cs",
+              "ToolTip": "C:\\Users\\jburon\\source\\repos\\Floreria\\Floreria\\Program.cs",
+              "RelativeToolTip": "Floreria\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:37:42.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

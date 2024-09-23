@@ -1,0 +1,15 @@
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\bin\Debug\net8.0\GimnasioLocal.exe
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\bin\Debug\net8.0\GimnasioLocal.deps.json
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\bin\Debug\net8.0\GimnasioLocal.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\bin\Debug\net8.0\GimnasioLocal.dll
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\bin\Debug\net8.0\GimnasioLocal.pdb
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\obj\Debug\net8.0\GimnasioLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\obj\Debug\net8.0\GimnasioLocal.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\obj\Debug\net8.0\GimnasioLocal.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\obj\Debug\net8.0\GimnasioLocal.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\obj\Debug\net8.0\GimnasioLocal.sourcelink.json
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\obj\Debug\net8.0\GimnasioLocal.dll
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\obj\Debug\net8.0\refint\GimnasioLocal.dll
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\obj\Debug\net8.0\GimnasioLocal.pdb
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\obj\Debug\net8.0\GimnasioLocal.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\GimnasioLocal\GimnasioLocal\obj\Debug\net8.0\ref\GimnasioLocal.dll

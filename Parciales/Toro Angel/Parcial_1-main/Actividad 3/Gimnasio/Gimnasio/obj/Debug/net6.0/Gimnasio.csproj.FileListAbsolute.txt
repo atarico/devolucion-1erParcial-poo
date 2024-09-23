@@ -1,0 +1,14 @@
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\bin\Debug\net6.0\Gimnasio.exe
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\bin\Debug\net6.0\Gimnasio.deps.json
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\bin\Debug\net6.0\Gimnasio.runtimeconfig.json
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\bin\Debug\net6.0\Gimnasio.dll
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\bin\Debug\net6.0\Gimnasio.pdb
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\obj\Debug\net6.0\Gimnasio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\obj\Debug\net6.0\Gimnasio.AssemblyInfoInputs.cache
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\obj\Debug\net6.0\Gimnasio.AssemblyInfo.cs
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\obj\Debug\net6.0\Gimnasio.csproj.CoreCompileInputs.cache
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\obj\Debug\net6.0\Gimnasio.dll
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\obj\Debug\net6.0\refint\Gimnasio.dll
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\obj\Debug\net6.0\Gimnasio.pdb
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\obj\Debug\net6.0\Gimnasio.genruntimeconfig.cache
+C:\Users\atoro\source\repos\Gimnasio\Gimnasio\obj\Debug\net6.0\ref\Gimnasio.dll
