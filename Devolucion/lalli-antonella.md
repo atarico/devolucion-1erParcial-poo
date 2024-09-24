@@ -1,4 +1,23 @@
-### Lalli, Devolución:
+### Lalli Antonella, Devolución:
+
+#### Ejercicio 1:
+
+#### Análisis
+
+- ✅ Relaciones y cardinalidad correcta
+
+#### Observaciones
+
+1. **_Falta una entidad:_**
+   Falta la principal función del sistema que es hacer mantenimientos a los vehículos y calcular el próximo mantenimiento, para ello era necesario involucrar a otra entidad.
+
+### Evaluación general:
+
+En este ejercicio solo se debía diagramar, no era necesario escribir su respectivo código.
+
+**¡Leer bien el enunciado!**
+
+#### Puntaje total: **2 / 3pts**
 
 ### Ejercicio 2:
 

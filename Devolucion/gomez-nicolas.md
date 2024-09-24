@@ -1,4 +1,28 @@
-### Gomez, Devolución:
+### Gomez Nicolas, Devolución:
+
+#### Ejercicio 1:
+
+#### Análisis
+
+- ✅ Clases correctas
+
+#### Observaciones
+
+1. **_Enumeración_**
+   La enumeración es redundante ya que cada clase te está especificando que tipo de `Vehiculo` es.
+
+2. **_Saber próximo mantenimiento:_**
+   La empresa desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo, para ello haría falta un método `CalcularProximoMantenimiento()` en la clase `SupervisorDeFlota` por ejemplo.
+
+3. **_Relación entre `SupervisorDeFlota` y `Vehiculo`:_**
+   Un `Vehiculo` no necesariamente debe tener un registro de mantenimiento, en especial en su creación/comienzo de vida.
+   Esta relación podría ser de Dependencia, ya que el supervisor de flota hace uso del vehículo para su mantenimiento.
+
+### Evaluación general:
+
+Se reconocieron bien todas las entidad junto a sus atributos, tener cuidado a la hora de elegir el nombre de las mismas, es conveniente que estén en singular.
+
+#### Puntaje total: **3 / 3pts**
 
 ### Ejercicio 2:
 
@@ -54,6 +78,24 @@ El código está muy bien estructurado y organizado, con pequeños detalles que 
 ---
 
 ### Ejercicio 3:
+
+### Diagrama.
+
+#### Análisis:
+
+- ✅ Cardinalidad y clases correctas.
+
+#### Observaciones
+
+1. **_No se solicita ningún informe o detalles:_**
+   En el enunciado no se especifica nada acerca de algún informe o mostrar detalles, así que los métodos `MostrarDetalles()` no son necesarios.
+
+2. **_Poriedad derivada_**
+   La propiedad `LugaresDisponibles` dentro de la clase `Clase` no necesariamente debería ser derivada, esta solo especifica un valor máximo y no demuestra algún calculo derivacional internamente.
+
+**¡Excelente diagrama!**
+
+## Código.
 
 #### Puntos Positivos
 

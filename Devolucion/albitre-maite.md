@@ -1,4 +1,25 @@
-### Albitre, Devolución:
+### Albitre Maite, Devolución:
+
+#### Ejercicio 1:
+
+#### Análisis
+
+- ✅ Relaciones perfectas
+- ✅ Cardinalidad correcta
+
+#### Observaciones
+
+1. **_Falta un método en la clase Mantenimiento:_**
+   La empresa necesita saber cuándo se debe realizar el siguiente mantenimiento, para ello haría falta un método `CalcularProximoMantenimiento()` por ejemplo.
+
+### Evaluación general:
+
+Bien detectadas todas las clases y relaciones involucradas en el problema.
+Para hallar más métodos observar los verbos en el enunciado.
+
+**¡Bien diagramado!**
+
+#### Puntaje total: **3 / 3pts**
 
 #### Ejercicio 2:
 
@@ -58,7 +79,28 @@ El código tiene una buena estructura y está bien organizado. Buena comprensió
 
 ---
 
-### Ejercicio 2:
+### Ejercicio 3:
+
+### Diagrama.
+
+#### Análisis:
+
+- ✅ Cardinalidad y clases correctas.
+- ✅ Relación entre `Clase` e `Instructor` correcta.
+
+#### Observaciones
+
+1. **_No se solicita ningún informe o detalles:_**
+   El enunciado no se habla nada de obtener detalles de alguna de las entidades, tampoco se hace mención que se deba calcular el costo total de las clases, así que los métodos `MostrarDetalles()` y `CostoTotal()` están demás.
+
+2. **_Inscripción a una clase:_**
+   El método `InscribirseAClase()` no recibe ningún parámetro. ¿Cómo se a qué clase debo inscribirme?
+
+3. **_Relación entre `Clase` y `Miembro`_:**
+   Si bien la relación propuesta es aceptable, las propiedades deberían estar a la inversa para que sea correcta, es decir, la `Clase` funcionaria como un “todo” de la “parte” `Miembro`, y por lo tanto debería ser la `Clase` la contenedora de la lista de `Miembro`. <br>
+   PD: Esto podría ser una relación de dependencia ya que `Miembro` solo hace uso de la `Clase` y en esta ultima solo cambia los lugares disponibles.
+
+### Código.
 
 #### Aspectos positivos:
 
@@ -94,16 +136,15 @@ public Clase(string nombre, int lugares, double costo, Instructor instructor)
 }
 ```
 
-En general, el código es claro y funcional, pero con estas pequeñas mejoras podría volverse más
-
-robusto y fácil de mantener. ¡Buen trabajo!
-
 ### Evaluación general:
 
-En general, el código es claro y funcional, pero con estos pequeños agregados podría mejorar
+El diagrama cumple con los requisitos, pero se escapan pequeños detalles.
+Ante la duda, asociación.
+
+En general, el código es claro y funcional, pero con estos pequeños agregados podría mejorar.
 
 **¡Muy buen trabajo!**
 
-#### Puntaje total: **4 / 4 pts**
+#### Puntaje total: **3 / 4 pts**
 
 ---

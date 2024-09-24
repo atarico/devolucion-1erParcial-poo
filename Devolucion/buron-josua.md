@@ -1,4 +1,27 @@
-### Buron, Devolución:
+### Buron Josua, Devolución:
+
+#### Ejercicio 1:
+
+#### Análisis
+
+- ✅ Cantidad de clases correctas
+
+#### Observaciones
+
+1. **_Relación entre `Supervisor` y `Conductor`:_**
+   No hay alguna relación semántica que conecte a estas dos entidades.
+
+2. **_Relación entre `Conductor` y `Vehiculo`:_**
+   La cardinalidad no es correcta, un `Conductor` debe estar asignado a un o ningún `Vehículo`. Falta la propiedad que represente este estado, vehículo en `Conductor` o conductor en `Vehículo`.
+
+3. **_Relación entre `Supervisor` y `Vehiculo`:_**
+   La cardinalidad esta al revés, un vehículo puede ser supervisado ninguna o muchas veces y la supervisión va a ser para un solo vehículo concreto.
+   Esta relación es más optativa ser una dependencia ya que un supervisor hace **uso** de un vehículo para su registro de mantenimiento.
+
+4. **_Saber próximo mantenimiento:_**
+   La empresa desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo, para ello haría falta un método `CalcularProximoMantenimiento()` por ejemplo.
+
+#### Puntaje total: **1.5 / 3pts**
 
 ### Ejercicio 2:
 
@@ -124,6 +147,7 @@ El código tiene una estructura bien organizada y un concepto claro, pero existe
 
 ### Evaluación Final:
 
+El diagrama es el que se crea por defecto.
 Se crearon las clases `Miembro`, `Instructor` y `Clase` pero no se le agregaron métodos.
 Se crea la clase `Program` con el `Main` pero no se ejecuta nada dentro de la función.
 

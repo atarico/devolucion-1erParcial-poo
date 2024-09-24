@@ -1,4 +1,21 @@
-### Lacomba, Devolución:
+### Lacomba Tomas, Devolución:
+
+#### Ejercicio 1:
+
+#### Observaciones
+
+1. **_Falta una entidad:_**
+   Falta la principal función del sistema que es hacer mantenimientos a los vehículos y calcular el próximo mantenimiento, para ello era necesario involucrar a otra entidad.
+
+2. **_Sintaxis:_**
+   Algunas sintaxis con respecto a los diagramas de clases no son correctas, especialmente en los métodos.
+
+### Evaluación general:
+
+Algunas partes de la tipificación no son las más convenientes.
+Falta la propiedad que represente el estado entre vehículo y conductor, vehículo en `Conductor` o conductor en `Vehículo`.
+
+#### Puntaje total: **1 / 3pts**
 
 #### Ejercicio 2:
 
@@ -48,6 +65,19 @@ El programa se ve bien. Faltaron aplicar 1 pilar fundamental de la programación
 ---
 
 ### Ejercicio 3:
+
+## Diagrama.
+
+#### Observaciones
+
+1. **_Sintaxis y Tipificación:_**
+   Lo mismo que en el anterior diagrama, la sintaxis no correcta en los métodos; y los tipos no son del todo correctos.
+
+2. **_Relaciones:_**
+   `Miembro` no tiene relación con `Instructor`. <br>
+   Herencia desde miembro??
+
+## Código.
 
 #### Puntos Positivos
 
@@ -104,6 +134,7 @@ public Clase(string nombre, int lugaresDisponibles, decimal costo)
 ### Evaluación general:
 
 El sistema de gimnasio muestra una buena estructura y separación de responsabilidades. Faltan algunos puntos importantes como el encapsulamiento y la modularización.
+
 **¡Buen trabajo!**
 
-#### Puntaje total: **3 / 4 pts**
+#### Puntaje total: **2 / 4 pts**
