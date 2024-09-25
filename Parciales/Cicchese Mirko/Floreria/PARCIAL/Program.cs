@@ -8,8 +8,7 @@ public class Program
         Flor flor2 = new Flor("Girasol", 50);
         Flor flor3 = new Flor("Tulipan", 200);
         Flor flor4 = new Flor("Jazmin", 80);
-        Flor flor5 = new Flor("Rosa Amarilla", 120);
-        Flor flor6 = new Flor("Flor Lavanda", 70);
+
 
         ArregloFloral arreglo1 = new ArregloFloral();
         arreglo1.AgregarFlor(flor1);
@@ -19,9 +18,7 @@ public class Program
         arreglo2.AgregarFlor(flor1);
         arreglo2.AgregarFlor(flor2);
         arreglo2.AgregarFlor(flor3);
-        arreglo2.AgregarFlor(flor4);
-        arreglo2.AgregarFlor(flor5);
-        arreglo2.AgregarFlor(flor6);
+
 
         ArregloFloral arreglo3 = new ArregloFloral();
         arreglo3.AgregarFlor(flor1);

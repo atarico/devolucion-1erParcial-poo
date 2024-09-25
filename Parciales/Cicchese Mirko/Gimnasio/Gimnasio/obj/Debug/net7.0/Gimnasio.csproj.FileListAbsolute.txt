@@ -26,3 +26,18 @@ C:\Users\mcicchese\Desktop\Gimnasio\Gimnasio\obj\Debug\net7.0\refint\Gimnasio.dl
 C:\Users\mcicchese\Desktop\Gimnasio\Gimnasio\obj\Debug\net7.0\Gimnasio.pdb
 C:\Users\mcicchese\Desktop\Gimnasio\Gimnasio\obj\Debug\net7.0\Gimnasio.genruntimeconfig.cache
 C:\Users\mcicchese\Desktop\Gimnasio\Gimnasio\obj\Debug\net7.0\ref\Gimnasio.dll
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\bin\Debug\net7.0\Gimnasio.exe
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\bin\Debug\net7.0\Gimnasio.deps.json
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\bin\Debug\net7.0\Gimnasio.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\bin\Debug\net7.0\Gimnasio.dll
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\bin\Debug\net7.0\Gimnasio.pdb
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\obj\Debug\net7.0\Gimnasio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\obj\Debug\net7.0\Gimnasio.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\obj\Debug\net7.0\Gimnasio.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\obj\Debug\net7.0\Gimnasio.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\obj\Debug\net7.0\Gimnasio.sourcelink.json
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\obj\Debug\net7.0\Gimnasio.dll
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\obj\Debug\net7.0\refint\Gimnasio.dll
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\obj\Debug\net7.0\Gimnasio.pdb
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\obj\Debug\net7.0\Gimnasio.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Cicchese Mirko\Gimnasio\Gimnasio\obj\Debug\net7.0\ref\Gimnasio.dll
