@@ -1,6 +1,4 @@
-### Albitre Maite, Devolución:
-
-#### Ejercicio 1:
+### Ejercicio 1:
 
 #### Análisis
 
@@ -21,7 +19,9 @@ Para hallar más métodos observar los verbos en el enunciado.
 
 #### Puntaje total: **3 / 3pts**
 
-#### Ejercicio 2:
+---
+
+### Ejercicio 2:
 
 #### Puntos Positivos
 
