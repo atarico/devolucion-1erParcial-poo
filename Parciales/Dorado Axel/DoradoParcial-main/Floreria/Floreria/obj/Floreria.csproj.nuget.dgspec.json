@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adorado\\source\\repos\\Floreria\\Floreria\\Floreria.csproj": {}
+    "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Dorado Axel\\DoradoParcial-main\\Floreria\\Floreria\\Floreria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adorado\\source\\repos\\Floreria\\Floreria\\Floreria.csproj": {
+    "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Dorado Axel\\DoradoParcial-main\\Floreria\\Floreria\\Floreria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adorado\\source\\repos\\Floreria\\Floreria\\Floreria.csproj",
+        "projectUniqueName": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Dorado Axel\\DoradoParcial-main\\Floreria\\Floreria\\Floreria.csproj",
         "projectName": "Floreria",
-        "projectPath": "C:\\Users\\adorado\\source\\repos\\Floreria\\Floreria\\Floreria.csproj",
-        "packagesPath": "C:\\Users\\adorado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adorado\\source\\repos\\Floreria\\Floreria\\obj\\",
+        "projectPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Dorado Axel\\DoradoParcial-main\\Floreria\\Floreria\\Floreria.csproj",
+        "packagesPath": "C:\\Users\\atari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Dorado Axel\\DoradoParcial-main\\Floreria\\Floreria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\adorado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\atari\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

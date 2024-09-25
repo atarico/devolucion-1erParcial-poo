@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Floreria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adad9438cdc4adea76122c2ef50895832c870096")]
 [assembly: System.Reflection.AssemblyProductAttribute("Floreria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Floreria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
