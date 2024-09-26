@@ -1,3 +1,20 @@
+### Ejercicio 1:
+
+#### Observaciones
+
+1. **_Falta una entidad:_**
+   Falta la principal función del sistema que es hacer mantenimientos a los vehículos y calcular el próximo mantenimiento, para ello era necesario involucrar a otra entidad.
+
+2. **_Relaciones:_**
+   `Conductor` tiene que estar relacionado con la entidad `Vehículo` no con sus subclases; ¿Qué sucede si el sistema crece y tengo más subclases de vehículo?.
+
+3. **_Saber próximo mantenimiento:_**
+   La empresa desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo, para ello haría falta un método `CalcularProximoMantenimiento()` por ejemplo.
+
+#### Puntaje total: _1 / 3_
+
+---
+
 ### Ejercicio 2:
 
 #### Puntos Positivos:
@@ -64,7 +81,17 @@ El código tiene una estructura sólida y funcional para gestionar pedidos en un
 
 ### Ejercicio 3
 
-### código
+### Diagrama.
+
+#### Observaciones
+
+1. **_Listas:_**
+   Faltan algún parámetro a la hora de agregar una entidad a una lista.
+
+2. **_Miembros:_**
+   Una `Clase` puede que no tenga ningún `Miembro`, en especial cuando esta entidad se crea.
+
+### Código.
 
 #### Puntos Positivos:
 
@@ -150,7 +177,7 @@ public void MostrarClases()
 
 El código está bien estructurado, con relaciones claras entre instructores, miembros, y clases, pero podría mejorarse con validaciones adicionales y una mejor salida de datos.
 
-#### Puntaje Total: _2 / 4_
+#### Puntaje Total: _3 / 4_
 
 ---
 
@@ -165,10 +192,10 @@ El código está bien estructurado, con relaciones claras entre instructores, mi
     <th>Estado</th>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">1</td>
     <td align="center">3</td>
-    <td align="center">2</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">3</td>
+    <td align="center">7</td>
+    <td align="center">Aprobado</td>
   </tr>
 </table>

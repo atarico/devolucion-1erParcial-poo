@@ -1,3 +1,22 @@
+### Ejercicio 1:
+
+#### Análisis
+
+- ✅ Relaciones correctas.
+- ✅ Clases correctas.
+
+#### Observaciones
+
+1. **_Propiedades:_**
+   No es necesario poner las propiedades de la superclase en las subclases, me refiero a las propiedades de `Vehículo` en `Colectivo` y `Camion`.
+
+2. **_Estado:_**
+   Falta la asignación de ‘estado’ entre `Conductor` y `Vehículo`, es decir una propiedad conductor en `Vehículo` o una propiedad vehículo en `Conductor` para que la relación tenga sentido.
+
+#### Puntaje total: _3 / 3_
+
+---
+
 ### Ejercicio 2:
 
 #### Puntos Positivos:
@@ -74,6 +93,15 @@ El código está bien diseñado y funciona, manejar flores, arreglos florales, p
 
 ### Ejercicio 3:
 
+### Diagrama.
+
+#### Observaciones
+
+1. **_No se solicita ningún informe o detalles:_**
+   El enunciado no se habla nada de obtener detalles de alguna de las entidades, así que los métodos `MostrarDetalles()` y la intrefaz `IMostrable` están demás.
+
+### Código.
+
 #### Puntos Positivos:
 
     ✅ Uso de Interfaces
@@ -141,10 +169,10 @@ El código está bien estructurado y cumple con lo pedido. La implementación de
     <th>Estado</th>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">3</td>
     <td align="center">3</td>
     <td align="center">4</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">10</td>
+    <td align="center">Aprobado</td>
   </tr>
 </table>

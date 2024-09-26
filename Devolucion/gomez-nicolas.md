@@ -1,6 +1,4 @@
-### Gomez Nicolas, Devolución:
-
-#### Ejercicio 1:
+### Ejercicio 1:
 
 #### Análisis
 
@@ -23,6 +21,8 @@
 Se reconocieron bien todas las entidad junto a sus atributos, tener cuidado a la hora de elegir el nombre de las mismas, es conveniente que estén en singular.
 
 #### Puntaje total: _3 / 3_
+
+---
 
 ### Ejercicio 2:
 
@@ -90,7 +90,7 @@ El código está muy bien estructurado y organizado, con pequeños detalles que 
 1. **_No se solicita ningún informe o detalles:_**
    En el enunciado no se especifica nada acerca de algún informe o mostrar detalles, así que los métodos `MostrarDetalles()` no son necesarios.
 
-2. **_Poriedad derivada_**
+2. **_Propiedad derivada_**
    La propiedad `LugaresDisponibles` dentro de la clase `Clase` no necesariamente debería ser derivada, esta solo especifica un valor máximo y no demuestra algún calculo derivacional internamente.
 
 **¡Excelente diagrama!**

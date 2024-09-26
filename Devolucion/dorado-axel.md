@@ -1,3 +1,26 @@
+### Ejercicio 1:
+
+#### Observaciones
+
+1. **_Relación entre `Vehiculos` y `TipoVehiculo`:_**
+   Esto debería ser herencia ya que ambos vehículos comparten características similares exceptuando 2; `CapacidadCarga` para Camion y `NroAsientos` para Autobus (esta última no está en el diagrama).
+
+2. **_Relación entre `Conductores` y `Vehiculos`:_**
+   Esto no es Agregación debido a que un conductor no contiene ni funciona como un ‘todo’ para un vehículo.
+
+3. **_Relación entre `Supervisor` y `Conductores`:_**
+   No hay relación.
+
+4. **_Relación entre `Vehiculos` y `Supervisor`:_**
+   No es Composición porque ambos pueden coexistir.
+
+5. **_Saber próximo mantenimiento:_**
+   La empresa desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo, para ello haría falta un método `CalcularProximoMantenimiento()` por ejemplo en la clase `Supervisor`.
+
+#### Puntaje total: _1 / 3_
+
+---
+
 ### Ejercicio 2:
 
 #### Puntos Positivos:
@@ -110,10 +133,10 @@ _Recomendación: Implementa las correcciones y completa el Main para verificar e
     <th>Estado</th>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">1</td>
     <td align="center">1</td>
     <td align="center">0</td>
-    <td align="center"></td>
+    <td align="center">2</td>
     <td align="center">Desaprobado</td>
   </tr>
 </table>

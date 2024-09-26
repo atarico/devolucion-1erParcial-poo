@@ -1,3 +1,26 @@
+### Ejercicio 1:
+
+#### Análisis
+
+- ✅ Cantidad de clases correcta
+
+#### Observaciones
+
+1. **_Saber próximo mantenimiento:_**
+   La empresa desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo, para ello haría falta un método `CalcularProximoMantenimiento()` por ejemplo.
+
+2. **_Relaciones:_**
+   `Supervisor` tiene que estar relacionado con la entidad `Vehículo` no con sus subclases; ¿Qué sucede si el sistema crece y tengo más subclases de vehículo?
+   No tiene sentido poner diferentes cardinalidades para cada subclase en este contexto.
+   Las relaciones de Agregación no serían correctas en este contexto, no hay un ‘todo/parte’.
+
+3. **_Mantenimiento:_**
+   La responsabilidad del mantenimiento es del supervisor, este debería poseer todas las acciones necesarias para realizar el mismo.
+
+#### Puntaje total: _1.5 / 3_
+
+---
+
 ### Ejercicio 2:
 
 #### Puntos Positivos:
@@ -109,6 +132,19 @@ El código está bien estructurado y tiene una lógica clara en cuanto al manejo
 
 ### Ejercicio 3:
 
+### Diagrama.
+
+#### Observaciones
+
+1. **_Métodos en `Miembro`:_**
+   ¿Cómo se a qué clase debo inscribirme o des inscribirme? Faltaría un parámetro a ambos métodos propuestos.
+
+2. **_Lista en `Instructor`:_**
+   Cuando se trabaja con listas hay que exponer algunos métodos para interactuar con la misma.
+
+3. **_Relación entre `Miembro` y `Clase`:_**
+   Esta relación en este contexto es candidata a Dependencia ya que un `Miembro` ‘usa’ una o más clases.
+
 ### Código:
 
 ### Puntos Positivos:
@@ -193,7 +229,7 @@ class Instructor
 
 El código tiene una estructura inicial sólida, pero presenta varios problemas técnicos relacionados con la accesibilidad de los constructores y el manejo de propiedades. Además, se debe mejorar el manejo de errores y corregir la recursión en las propiedades.
 
-#### Puntaje Total: _1 / 4_
+#### Puntaje Total: _2.5 / 4_
 
 _Tiene potencial, pero requiere ajustes en los constructores, manejo de propiedades, y excepciones para ser funcional._
 
@@ -210,10 +246,10 @@ _Tiene potencial, pero requiere ajustes en los constructores, manejo de propieda
     <th>Estado</th>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">1.5</td>
     <td align="center">1</td>
-    <td align="center">1</td>
-    <td align="center"></td>
+    <td align="center">2.5</td>
+    <td align="center">5</td>
     <td align="center">Desaprobado</td>
   </tr>
 </table>

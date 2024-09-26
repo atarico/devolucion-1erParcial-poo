@@ -1,6 +1,4 @@
-### Buron Josua, Devolución:
-
-#### Ejercicio 1:
+### Ejercicio 1:
 
 #### Análisis
 
@@ -22,6 +20,8 @@
    La empresa desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo, para ello haría falta un método `CalcularProximoMantenimiento()` por ejemplo.
 
 #### Puntaje total: _1.5 / 3_
+
+---
 
 ### Ejercicio 2:
 

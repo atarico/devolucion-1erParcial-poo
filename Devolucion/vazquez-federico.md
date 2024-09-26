@@ -1,3 +1,21 @@
+### Ejercicio 1:
+
+#### Análisis
+
+- ✅ Clases correctas.
+
+#### Observaciones
+
+1. **_Saber próximo mantenimiento y registrar mantenimiento:_**
+   La empresa quiere registrar mantenimientos de los vehículos y desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo , para ello haría falta los métodos `CalcularProximoMantenimiento()` y `RegistrarMantenimiento()` por ejemplo. Esto es responsabilidad del supervisor.
+
+2. **_Estado:_**
+   Falta la asignación de ‘estado’ entre `Conductor` y `Vehículo`, es decir una propiedad conductor en `Vehículo` o una propiedad vehículo en `Conductor` para que la relación tenga sentido. Y esto es una relación de Asociación, ya que es mucho más fuerte que el uso del vehículo.
+
+#### Puntaje total: _2 / 3_
+
+---
+
 ### Ejercicio 2:
 
 #### Puntos Positivos:
@@ -85,7 +103,13 @@ El código está bien diseñado y organizado, pero hay áreas que requieren mejo
 
 ---
 
-### Ejercicio3
+### Ejercicio 3
+
+### Diagrama.
+
+#### Observaciones
+
+Hay un método privado en `Clase` que no le veo mucho sentido ponerlo privado, aunque sea que otro método de la misma clase lo pueda llegar a utilizar.
 
 #### Código:
 
@@ -166,10 +190,10 @@ El código es bastante sólido, pero se pueden implementar mejoras en el manejo 
     <th>Estado</th>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">2</td>
     <td align="center">3</td>
     <td align="center">3</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">8</td>
+    <td align="center">Aprobado</td>
   </tr>
 </table>

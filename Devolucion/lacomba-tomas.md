@@ -1,6 +1,4 @@
-### Lacomba Tomas, Devolución:
-
-#### Ejercicio 1:
+### Ejercicio 1:
 
 #### Observaciones
 
@@ -16,6 +14,8 @@ Algunas partes de la tipificación no son las más convenientes.
 Falta la propiedad que represente el estado entre vehículo y conductor, vehículo en `Conductor` o conductor en `Vehículo`.
 
 #### Puntaje total: _1 / 3_
+
+---
 
 #### Ejercicio 2:
 
@@ -66,7 +66,7 @@ El programa se ve bien. Faltaron aplicar 1 pilar fundamental de la programación
 
 ### Ejercicio 3:
 
-## Diagrama.
+### Diagrama.
 
 #### Observaciones
 
@@ -77,7 +77,7 @@ El programa se ve bien. Faltaron aplicar 1 pilar fundamental de la programación
    `Miembro` no tiene relación con `Instructor`. <br>
    Herencia desde miembro??
 
-## Código.
+### Código.
 
 #### Puntos Positivos
 

@@ -1,6 +1,4 @@
-### Ceriotti Kevin, Devolución:
-
-#### Ejercicio 1:
+### Ejercicio 1:
 
 #### Análisis
 
@@ -20,9 +18,9 @@
 4. **_Camión y autobús:_**
    Hay atributos en común que se podrían compartir en una superclase sin necesidad de ponerlas individualmente (fechaMantenimiento, UltimaCantKilometros, nombre)
 
----
-
 #### Puntaje total: _1.5 / 3_
+
+---
 
 ### Ejercicio 2:
 

@@ -1,3 +1,20 @@
+### Ejercicio 1:
+
+#### Observaciones
+
+1. **_Saber próximo mantenimiento:_**
+   La empresa desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo, para ello haría falta un método `CalcularProximoMantenimiento()` por ejemplo.
+
+2. **_Relación entre `Vehiculo` y `Conductor`:_**
+   La relación es mucho más candidata a ser una simple Asociación con una cardinalidad 1 a 1, o 0…1 a 0…1; por el hecho de la representación del ‘estado’ dado en un momento concreto, un vehículo va a ser conducido por un solo conductor, sí, ese vehículo a lo largo de su vida útil va a ser conducido por muchos conductores, pero en el momento que tenga que ser conducido solo habrá uno.
+
+3. **_Mantenimiento:_**
+   La responsabilidad de registrar el mantenimiento le pertenece al supervisor (entidad faltante); y no debería estar en `Vehículo`
+
+#### Puntaje total: _1.5 / 3_
+
+---
+
 ### Ejercicio 2:
 
 #### Puntos Positivos:
@@ -121,6 +138,24 @@ Tu código tiene una estructura clara y modular, con un buen uso de clases, enca
 
 ---
 
+### Ejercicio 3:
+
+### Diagrama.
+
+#### Análisis:
+
+- ✅ Clases correctas.
+
+#### Observaciones
+
+1. **_Método en `Miembro`:_**
+   El método publico `MostrarDetallesMiembro()` no debería recibir el parámetro `clase`.
+
+2. **_Cardinalidad entre `Instructor` y `Clase`_**
+   Lo mismo con el ejercicio 1, es una representación de estado; no va a haber más de un `Instructor` dando la clase al mismo tiempo.
+
+**¡Repasar 'estado' de un objeto!**
+
 #### Puntos Positivos:
 
     ✅ Estructura clara y bien definida
@@ -170,7 +205,7 @@ El código tiene una buena estructura y está muy bien organizado. Es claro y f�
 
 **¡Muy buen trabajo!**
 
-#### Puntaje Total: _4 / 4_
+#### Puntaje Total: _3.5 / 4_
 
 ---
 
@@ -185,10 +220,10 @@ El código tiene una buena estructura y está muy bien organizado. Es claro y f�
     <th>Estado</th>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">1.5</td>
     <td align="center">2</td>
-    <td align="center">4</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">3.5</td>
+    <td align="center">7</td>
+    <td align="center">Aprobado</td>
   </tr>
 </table>

@@ -1,3 +1,19 @@
+### Ejercicio 1:
+
+#### Análisis
+
+- ✅ Relaciones correctas.
+- ✅ Clases correctas.
+
+#### Observaciones
+
+1. **_Cuidado con los valores por defecto a la hora de crear el diagrama._**
+2. **_Poner nombres en singular, estamos trabajando con entidades no tablas. ._**
+
+#### Puntaje total: _3 / 3_
+
+---
+
 ### Ejercicio 2:
 
 #### Puntos Positivos:
@@ -78,6 +94,12 @@ El código está bien estructurado y proporciona una funcionalidad completa para
 
 ### Ejercicio 3:
 
+### Diagrama.
+
+#### Análisis
+
+- ✅ Excelente
+
 ### Código
 
 #### Puntos Positivos:
@@ -154,10 +176,10 @@ El código es sólido y cubre las funcionalidades requeridas. Considera también
     <th>Estado</th>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">3</td>
     <td align="center">3</td>
     <td align="center">4</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">10</td>
+    <td align="center">Aprobado</td>
   </tr>
 </table>

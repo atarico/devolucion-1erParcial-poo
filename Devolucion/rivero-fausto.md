@@ -1,3 +1,29 @@
+### Ejercicio 1:
+
+#### Análisis
+
+- ✅ Clases correctas.
+
+#### Observaciones
+
+1. **_Clase `Vehiculo`:_**
+   Las propiedades `Camion` y `Autobus` no son correctas dentro de esta clase.
+
+2. **_Estado:_**
+   Falta la asignación de ‘estado’ entre `Conductor` y `Vehículo`, es decir una propiedad conductor en `Vehículo` o una propiedad vehículo en `Conductor` para que la relación tenga sentido.
+   Falta la cardinalidad y no es una relación de Agregación ya que no es un “todo/parte”.
+
+3. **_Métodos:_**
+   ¿Cómo sé que vehículo asignar al conductor y a que vehículo le hago el mantenimiento?
+   Falta algún parámetro en los métodos `RegistrarMantenimiento()` y ` AsignarVehiculo()`.
+
+4. **_Saber próximo mantenimiento:_**
+   La empresa desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo, para ello haría falta un método `CalcularProximoMantenimiento()` por ejemplo.
+
+#### Puntaje total: _2 / 3_
+
+---
+
 ### Ejercicio 2:
 
 #### Puntos Positivos:
@@ -134,6 +160,12 @@ _Observación Final: El proyecto tiene un buen punto de partida, pero requiere a
 
 ### Ejercicio 3:
 
+### Diagrama.
+
+#### Observaciones
+
+1. **_Diagrama por defecto que te da el programa al crear uno nuevo, diagrama no válido._**
+
 #### Código:
 
 #### Puntos Positivos:
@@ -249,10 +281,10 @@ El código muestra un buen intento de modelar un sistema para gestionar un gimna
     <th>Estado</th>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">2</td>
     <td align="center">1</td>
     <td align="center">1</td>
-    <td align="center"></td>
+    <td align="center">4</td>
     <td align="center">Desaprobado</td>
   </tr>
 </table>

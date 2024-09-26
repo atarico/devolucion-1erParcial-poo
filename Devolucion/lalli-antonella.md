@@ -1,6 +1,4 @@
-### Lalli Antonella, Devolución:
-
-#### Ejercicio 1:
+### Ejercicio 1:
 
 #### Análisis
 
@@ -18,6 +16,8 @@ En este ejercicio solo se debía diagramar, no era necesario escribir su respect
 **¡Leer bien el enunciado!**
 
 #### Puntaje total: _2 / 3_
+
+---
 
 ### Ejercicio 2:
 

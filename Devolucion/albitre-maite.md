@@ -145,7 +145,7 @@ En general, el código es claro y funcional, pero con estos pequeños agregados 
 
 **¡Muy buen trabajo!**
 
-#### Puntaje total: _3 / 4_
+#### Puntaje total: _4 / 4_
 
 ---
 
@@ -162,8 +162,8 @@ En general, el código es claro y funcional, pero con estos pequeños agregados 
   <tr>
     <td align="center">3</td>
     <td align="center">3</td>
-    <td align="center">3</td>
-    <td align="center">9</td>
+    <td align="center">4</td>
+    <td align="center">10</td>
     <td align="center">Aprobado</td>
   </tr>
 </table>

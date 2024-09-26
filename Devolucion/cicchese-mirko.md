@@ -1,3 +1,11 @@
+### Ejercicio 1:
+
+**Ejercicio NO resuelto**
+
+#### Puntaje total: _0 / 3_
+
+---
+
 ### Ejercicio 2:
 
 #### Puntos Positivos:
@@ -47,6 +55,20 @@ Con algunos ajustes menores como la tipificación de listas, la eliminación de 
 ---
 
 ### Ejercicio 3:
+
+### Diagrama.
+
+#### Análisis:
+
+- ✅ Cardinalidad y clases correctas.
+
+#### Observaciones
+
+1. **_Inscripción a una clase:_**
+   El método `InscripcionClase()` no recibe ningún parámetro. ¿Cómo se a qué clase debo inscribirme?
+
+2. **_Relación entre `Cliente` y `Clase`:_**
+   Esta relación podría ser una de Agregación si `Clase` contiene a `Cliente` y también una de Dependencia ya que `Cliente` hace uso de las clases.
 
 ### código:
 
@@ -104,7 +126,7 @@ Los métodos están bien definidos y la lógica es clara, pero sería útil aña
 
 **¡Buen trabajo!**
 
-#### Puntaje total: _2.5 / 4_
+#### Puntaje total: _3 / 4_
 
 ---
 
@@ -119,10 +141,10 @@ Los métodos están bien definidos y la lógica es clara, pero sería útil aña
     <th>Estado</th>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">0</td>
     <td align="center">2</td>
-    <td align="center">2.5</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">3</td>
+    <td align="center">5</td>
+    <td align="center">Desaprobado</td>
   </tr>
 </table>

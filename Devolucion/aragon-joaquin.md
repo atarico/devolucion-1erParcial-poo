@@ -1,3 +1,26 @@
+### Ejercicio 1:
+
+#### Observaciones
+
+1. **_Cardinalidades:_**
+   Entre `Vehículo` y `Conductor`; un conductor puede manejar muchos o ningún vehículo, pero en la representación del estado de la clase, en un momento concreto puede manejar solo uno.
+
+2. **_Relaciones:_**
+   Un `Supervisor` no necesariamente debe tener un `NroLicencia`.
+   Entre `Supervisor` y `Mantenimiento` no sería una relación de Agregación, sería una s de Asociación simplemente ya que no hay una relación del tipo ‘todo/parte’.
+
+3. **_Saber próximo mantenimiento:_**
+   La empresa desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo, para ello haría falta un método `CalcularProximoMantenimiento()` por ejemplo.
+
+### Evaluación general:
+
+Hay relaciones y cardinalidades difíciles de entender y resultan ambiguas, como por ejemplo entre `Vehículo` y `Mantenimiento`; esta relación esta demás junto a la lista de mantenimientos dentro de `Vehículo`.
+Las demás clases y relaciones están bien identificadas.
+
+#### Puntaje total: _1.5 / 3_
+
+---
+
 ### Ejercicio 2:
 
 #### Puntos Positivos:
@@ -69,6 +92,21 @@ El código es muy funcional, pero requiere algunas mejoras en la claridad del fl
 
 ### Ejercicio 3
 
+### Diagrama.
+
+#### Análisis:
+
+- ✅ Clases correctas.
+
+#### Observaciones
+
+1. **_Relación entre `Clase` e `Instructor`:_**
+   No es Agregación debido a que `Instructor` no funciona como un ‘todo’ o ‘contenedor’ para las clases. En todo caso seria. En todo caso podría ser una Agregación si la relación fuera inversa (la clase contiene al instructor)
+
+2. **_Relación entre `Clase` y `Miembro`:_**
+   En el contexto actual, esta relación si es candidata a Agregación ya que una clase es la contenedora de miembros, por lo tanto, sería conveniente que `Clase` tenga una lista de miembros y no que `Miembro` tenga una lista de clases.
+   PD: Esto también podría ser una relación de dependencia ya que `Miembro` solo hace uso de la `Clase` y en esta última solo cambia los lugares disponibles; y con esto último se concluye que `LugaresDisponibles` no debería ser una propiedad derivada.
+
 #### Código:
 
 #### Puntos Positivos:
@@ -114,7 +152,7 @@ El código es sólido y con una sintaxis clara y entendible. Agregar un manejo a
 
 **¡Excelente trabajo!**
 
-#### Puntaje Total: _4 / 4_
+#### Puntaje Total: _3.5 / 4_
 
 ---
 
@@ -129,10 +167,10 @@ El código es sólido y con una sintaxis clara y entendible. Agregar un manejo a
     <th>Estado</th>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">1.5</td>
     <td align="center">3</td>
-    <td align="center">4</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">3,5</td>
+    <td align="center">8</td>
+    <td align="center">Aprobado</td>
   </tr>
 </table>
