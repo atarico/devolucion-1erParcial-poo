@@ -154,3 +154,22 @@ Se crea la clase `Program` con el `Main` pero no se ejecuta nada dentro de la fu
 #### Puntaje **total: 0 / 4 pts**
 
 ---
+
+## Primer Parcial
+
+<table>
+  <tr>
+    <th>Ejercicio 1</th>
+    <th>Ejercicio 2</th>
+    <th>Ejercicio 3</th>
+    <th>Total</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td align="center">1.5</td>
+    <td align="center">1.5</td>
+    <td align="center">0</td>
+    <td align="center">3</td>
+    <td align="center">Desaprobado</td>
+  </tr>
+</table>

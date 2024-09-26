@@ -104,9 +104,9 @@ El código tiene una buena estructura y está bien organizado. Buena comprensió
 
 #### Aspectos positivos:
 
-- ✅ Buena estructuración
-- ✅ Uso de encapsulamiento
-- ✅ Lógica clara y fácil de seguir
+    ✅ Buena estructuración
+    ✅ Uso de encapsulamiento
+    ✅ Lógica clara y fácil de seguir
 
 #### Observaciones y mejoras:
 
@@ -148,3 +148,22 @@ En general, el código es claro y funcional, pero con estos pequeños agregados 
 #### Puntaje total: **3 / 4 pts**
 
 ---
+
+## Primer Parcial
+
+<table>
+  <tr>
+    <th>Ejercicio 1</th>
+    <th>Ejercicio 2</th>
+    <th>Ejercicio 3</th>
+    <th>Total</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td align="center">3</td>
+    <td align="center">3</td>
+    <td align="center">9</td>
+    <td align="center">Promovido</td>
+  </tr>
+</table>

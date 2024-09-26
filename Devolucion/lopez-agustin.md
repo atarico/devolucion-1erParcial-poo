@@ -1,10 +1,12 @@
-### Puntos Positivos:
+### Ejercicio 2:
+
+#### Puntos Positivos:
 
     ✅Modularidad
     ✅Uso de listas
     ✅Lógica de descuentos
 
-### Correcciones y Mejoras
+#### Correcciones y Mejoras
 
 1. **_Problema con la recursión infinita en la propiedad Costo de la clase Flor:_** Actualmente, la propiedad Costo utiliza Costo = value; en su set, lo cual generaría una llamada infinita al setter de la misma propiedad. Para solucionarlo, deberías utilizar un campo privado para almacenar el valor de Costo. Aquí la corrección:
 
@@ -105,6 +107,10 @@ El código está bien estructurado y tiene una lógica clara en cuanto al manejo
 
 ---
 
+### Ejercicio 3:
+
+### Código:
+
 ### Puntos Positivos:
 
     ✅ Organización del código
@@ -192,3 +198,22 @@ El código tiene una estructura inicial sólida, pero presenta varios problemas 
 _Tiene potencial, pero requiere ajustes en los constructores, manejo de propiedades, y excepciones para ser funcional._
 
 ---
+
+## Primer Parcial
+
+<table>
+  <tr>
+    <th>Ejercicio 1</th>
+    <th>Ejercicio 2</th>
+    <th>Ejercicio 3</th>
+    <th>Total</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center"></td>
+    <td align="center">Desaprobado</td>
+  </tr>
+</table>

@@ -127,3 +127,24 @@ public void AgregarMiembro(Miembro miembro)
 El código está bien estructurado y cumple con lo pedido. La implementación de Interfaces es buena, y se vio una buen manejo del los pilares fundamentales de la POO. Tiene algunas cosas menores que mejorar como todos los programas que se desarrollan.
 
 #### Puntaje Total: _4 / 4_
+
+---
+
+## Primer Parcial
+
+<table>
+  <tr>
+    <th>Ejercicio 1</th>
+    <th>Ejercicio 2</th>
+    <th>Ejercicio 3</th>
+    <th>Total</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center">3</td>
+    <td align="center">4</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>

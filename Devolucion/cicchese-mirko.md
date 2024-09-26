@@ -105,3 +105,24 @@ Los métodos están bien definidos y la lógica es clara, pero sería útil aña
 **¡Buen trabajo!**
 
 #### Puntaje total: **2.5 / 4 pts**
+
+---
+
+## Primer Parcial
+
+<table>
+  <tr>
+    <th>Ejercicio 1</th>
+    <th>Ejercicio 2</th>
+    <th>Ejercicio 3</th>
+    <th>Total</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center">2</td>
+    <td align="center">2.5</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>

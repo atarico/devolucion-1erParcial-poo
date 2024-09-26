@@ -90,3 +90,30 @@ El código tiene una estructura clara y modular, pero hay varios errores lógico
 #### Puntaje total: **1 / 3**
 
 _Recomendación: Implementa las correcciones y completa el Main para verificar el comportamiento del programa._
+
+### Ejercicio 3:
+
+**No resuelto**
+
+#### Puntaje total: **0 / 4**
+
+---
+
+## Primer Parcial
+
+<table>
+  <tr>
+    <th>Ejercicio 1</th>
+    <th>Ejercicio 2</th>
+    <th>Ejercicio 3</th>
+    <th>Total</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center">1</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">Desaprobado</td>
+  </tr>
+</table>

@@ -138,3 +138,24 @@ El sistema de gimnasio muestra una buena estructura y separación de responsabil
 **¡Buen trabajo!**
 
 #### Puntaje total: **2 / 4 pts**
+
+---
+
+## Primer Parcial
+
+<table>
+  <tr>
+    <th>Ejercicio 1</th>
+    <th>Ejercicio 2</th>
+    <th>Ejercicio 3</th>
+    <th>Total</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">2</td>
+    <td align="center">2</td>
+    <td align="center">5</td>
+    <td align="center">Desaprobado</td>
+  </tr>
+</table>

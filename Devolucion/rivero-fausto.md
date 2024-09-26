@@ -235,3 +235,24 @@ Evaluación General:
 El código muestra un buen intento de modelar un sistema para gestionar un gimnasio con clases, instructores y miembros. Sin embargo, hay varios errores lógicos que impiden su correcto funcionamiento, desde errores en asignaciones de variables hasta el uso incorrecto de métodos no existentes. Además, faltan algunas funcionalidades esenciales como la gestión de inscripciones y la actualización de la disponibilidad.
 
 #### Puntaje Total: _1 / 4_
+
+---
+
+## Primer Parcial
+
+<table>
+  <tr>
+    <th>Ejercicio 1</th>
+    <th>Ejercicio 2</th>
+    <th>Ejercicio 3</th>
+    <th>Total</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center"></td>
+    <td align="center">Desaprobado</td>
+  </tr>
+</table>

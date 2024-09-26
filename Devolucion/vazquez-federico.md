@@ -152,3 +152,24 @@ public void MostrarDetalles()
 El código es bastante sólido, pero se pueden implementar mejoras en el manejo de miembros, así como en la presentación de información, el manejo de errores y la mejora de la salida de datos.
 
 #### Puntaje Total: _3 / 4_
+
+---
+
+## Primer Parcial
+
+<table>
+  <tr>
+    <th>Ejercicio 1</th>
+    <th>Ejercicio 2</th>
+    <th>Ejercicio 3</th>
+    <th>Total</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center">3</td>
+    <td align="center">3</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>

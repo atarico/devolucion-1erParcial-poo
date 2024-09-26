@@ -160,3 +160,22 @@ El código muestra una buena comprensión de los conceptos de orientación a obj
 #### Puntaje total: **4 / 4 pts**
 
 ---
+
+## Primer Parcial
+
+<table>
+  <tr>
+    <th>Ejercicio 1</th>
+    <th>Ejercicio 2</th>
+    <th>Ejercicio 3</th>
+    <th>Total</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td align="center">3</td>
+    <td align="center">4</td>
+    <td align="center">10</td>
+    <td align="center">Promovido</td>
+  </tr>
+</table>

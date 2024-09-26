@@ -151,3 +151,24 @@ public void MostrarClases()
 El código está bien estructurado, con relaciones claras entre instructores, miembros, y clases, pero podría mejorarse con validaciones adicionales y una mejor salida de datos.
 
 #### Puntaje Total: _2 / 4_
+
+---
+
+## Primer Parcial
+
+<table>
+  <tr>
+    <th>Ejercicio 1</th>
+    <th>Ejercicio 2</th>
+    <th>Ejercicio 3</th>
+    <th>Total</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center">3</td>
+    <td align="center">2</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
