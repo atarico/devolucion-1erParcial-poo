@@ -9,14 +9,14 @@
       <td>Albitre, Maite</td>
       <td>-</td>
       <td>
-        <a href="#">Ir a devolución→</a>
+        <a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/Devolucion/albitre-maite.md">Ir a devolución→</a>
       </td>
     </tr>
     <tr>
       <td>Aragon, Joaquín Enzo</td>
       <td>-</td>
       <td>
-        <a href="#">Ir a devolución→</a>
+        <a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/Devolucion/aragon-joaquin.md">Ir a devolución→</a>
       </td>
     </tr>
     <tr>

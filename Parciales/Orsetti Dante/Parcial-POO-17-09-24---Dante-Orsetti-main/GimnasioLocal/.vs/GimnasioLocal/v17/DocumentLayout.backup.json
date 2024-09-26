@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\",
+  "WorkspaceRootPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5029B5C-6E3C-4F12-946D-9DA3BECD61EC}|GimnasioLocal\\GimnasioLocal.csproj|c:\\users\\dorsettimartinez\\source\\repos\\gimnasiolocal\\gimnasiolocal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5029B5C-6E3C-4F12-946D-9DA3BECD61EC}|GimnasioLocal\\GimnasioLocal.csproj|c:\\users\\atari\\onedrive\\escritorio\\utn\\segundocuatrimestre2024\\prog2-tt\\parcial1\u002B\\antonito\\parciales\\orsetti dante\\parcial-poo-17-09-24---dante-orsetti-main\\gimnasiolocal\\gimnasiolocal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5029B5C-6E3C-4F12-946D-9DA3BECD61EC}|GimnasioLocal\\GimnasioLocal.csproj|solutionrelative:gimnasiolocal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5029B5C-6E3C-4F12-946D-9DA3BECD61EC}|GimnasioLocal\\GimnasioLocal.csproj|c:\\users\\dorsettimartinez\\source\\repos\\gimnasiolocal\\gimnasiolocal\\modulos\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5029B5C-6E3C-4F12-946D-9DA3BECD61EC}|GimnasioLocal\\GimnasioLocal.csproj|c:\\users\\atari\\onedrive\\escritorio\\utn\\segundocuatrimestre2024\\prog2-tt\\parcial1\u002B\\antonito\\parciales\\orsetti dante\\parcial-poo-17-09-24---dante-orsetti-main\\gimnasiolocal\\gimnasiolocal\\modulos\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5029B5C-6E3C-4F12-946D-9DA3BECD61EC}|GimnasioLocal\\GimnasioLocal.csproj|solutionrelative:gimnasiolocal\\modulos\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5029B5C-6E3C-4F12-946D-9DA3BECD61EC}|GimnasioLocal\\GimnasioLocal.csproj|c:\\users\\dorsettimartinez\\source\\repos\\gimnasiolocal\\gimnasiolocal\\modulos\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5029B5C-6E3C-4F12-946D-9DA3BECD61EC}|GimnasioLocal\\GimnasioLocal.csproj|c:\\users\\atari\\onedrive\\escritorio\\utn\\segundocuatrimestre2024\\prog2-tt\\parcial1\u002B\\antonito\\parciales\\orsetti dante\\parcial-poo-17-09-24---dante-orsetti-main\\gimnasiolocal\\gimnasiolocal\\modulos\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5029B5C-6E3C-4F12-946D-9DA3BECD61EC}|GimnasioLocal\\GimnasioLocal.csproj|solutionrelative:gimnasiolocal\\modulos\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5029B5C-6E3C-4F12-946D-9DA3BECD61EC}|GimnasioLocal\\GimnasioLocal.csproj|c:\\users\\dorsettimartinez\\source\\repos\\gimnasiolocal\\gimnasiolocal\\modulos\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5029B5C-6E3C-4F12-946D-9DA3BECD61EC}|GimnasioLocal\\GimnasioLocal.csproj|c:\\users\\atari\\onedrive\\escritorio\\utn\\segundocuatrimestre2024\\prog2-tt\\parcial1\u002B\\antonito\\parciales\\orsetti dante\\parcial-poo-17-09-24---dante-orsetti-main\\gimnasiolocal\\gimnasiolocal\\modulos\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5029B5C-6E3C-4F12-946D-9DA3BECD61EC}|GimnasioLocal\\GimnasioLocal.csproj|solutionrelative:gimnasiolocal\\modulos\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,48 +32,45 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Miembro.cs",
-              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\Modulos\\Miembro.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\Modulos\\Miembro.cs",
               "RelativeDocumentMoniker": "GimnasioLocal\\Modulos\\Miembro.cs",
-              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\Modulos\\Miembro.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\Modulos\\Miembro.cs",
               "RelativeToolTip": "GimnasioLocal\\Modulos\\Miembro.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T20:40:50.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T20:40:50.751Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Clase.cs",
-              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\Modulos\\Clase.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\Modulos\\Clase.cs",
               "RelativeDocumentMoniker": "GimnasioLocal\\Modulos\\Clase.cs",
-              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\Modulos\\Clase.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\Modulos\\Clase.cs",
               "RelativeToolTip": "GimnasioLocal\\Modulos\\Clase.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAA7wCoAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T20:34:42.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T20:34:42.66Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\Modulos\\Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\Modulos\\Instructor.cs",
               "RelativeDocumentMoniker": "GimnasioLocal\\Modulos\\Instructor.cs",
-              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\Modulos\\Instructor.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\Modulos\\Instructor.cs",
               "RelativeToolTip": "GimnasioLocal\\Modulos\\Instructor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T20:32:42.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T20:32:42.696Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\Program.cs",
               "RelativeDocumentMoniker": "GimnasioLocal\\Program.cs",
-              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\Program.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\Program.cs",
               "RelativeToolTip": "GimnasioLocal\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

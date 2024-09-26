@@ -20,7 +20,7 @@ namespace Gimnasio
 
             clase1.AgregarMiembro(miembro1);
             clase1.AgregarMiembro(miembro2);
-            clase1.AgregarMiembro(miembro3);
+            
 
             clase2.AgregarMiembro(miembro1);
             clase2.AgregarMiembro(miembro2);

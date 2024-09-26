@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\atoro\\.nuget\\packages\\": {}
+    "C:\\Users\\atari\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\atoro\\Desktop\\Floreria\\Floreria\\Floreria.csproj",
+      "projectUniqueName": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Toro Angel\\Parcial_1-main\\Actividad 2\\Floreria\\Floreria\\Floreria.csproj",
       "projectName": "Floreria",
-      "projectPath": "C:\\Users\\atoro\\Desktop\\Floreria\\Floreria\\Floreria.csproj",
-      "packagesPath": "C:\\Users\\atoro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\atoro\\Desktop\\Floreria\\Floreria\\obj\\",
+      "projectPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Toro Angel\\Parcial_1-main\\Actividad 2\\Floreria\\Floreria\\Floreria.csproj",
+      "packagesPath": "C:\\Users\\atari\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Toro Angel\\Parcial_1-main\\Actividad 2\\Floreria\\Floreria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\atoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\atari\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

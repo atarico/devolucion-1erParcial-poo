@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\GimnasioLocal.csproj": {}
+    "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\GimnasioLocal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\GimnasioLocal.csproj": {
+    "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\GimnasioLocal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\GimnasioLocal.csproj",
+        "projectUniqueName": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\GimnasioLocal.csproj",
         "projectName": "GimnasioLocal",
-        "projectPath": "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\GimnasioLocal.csproj",
-        "packagesPath": "C:\\Users\\dorsettimartinez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dorsettimartinez\\source\\repos\\GimnasioLocal\\GimnasioLocal\\obj\\",
+        "projectPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\GimnasioLocal.csproj",
+        "packagesPath": "C:\\Users\\atari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Orsetti Dante\\Parcial-POO-17-09-24---Dante-Orsetti-main\\GimnasioLocal\\GimnasioLocal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dorsettimartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\atari\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

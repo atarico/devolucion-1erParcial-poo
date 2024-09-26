@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\",
+  "WorkspaceRootPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|c:\\users\\fvazquez\\desktop\\repos\\parcial_progra2_17_09_24\\gym\\gym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|c:\\users\\atari\\onedrive\\escritorio\\utn\\segundocuatrimestre2024\\prog2-tt\\parcial1\u002B\\antonito\\parciales\\vazquez federico\\parcial1_progra2_fede_vazquez-main\\gym\\gym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|solutionrelative:gym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|c:\\users\\fvazquez\\desktop\\repos\\parcial_progra2_17_09_24\\gym\\gym\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|solutionrelative:gym\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|c:\\users\\fvazquez\\desktop\\repos\\parcial_progra2_17_09_24\\gym\\gym\\models\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|c:\\users\\atari\\onedrive\\escritorio\\utn\\segundocuatrimestre2024\\prog2-tt\\parcial1\u002B\\antonito\\parciales\\vazquez federico\\parcial1_progra2_fede_vazquez-main\\gym\\gym\\models\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|solutionrelative:gym\\models\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|c:\\users\\fvazquez\\desktop\\repos\\parcial_progra2_17_09_24\\gym\\gym\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|c:\\users\\atari\\onedrive\\escritorio\\utn\\segundocuatrimestre2024\\prog2-tt\\parcial1\u002B\\antonito\\parciales\\vazquez federico\\parcial1_progra2_fede_vazquez-main\\gym\\gym\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|solutionrelative:gym\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|c:\\users\\atari\\onedrive\\escritorio\\utn\\segundocuatrimestre2024\\prog2-tt\\parcial1\u002B\\antonito\\parciales\\vazquez federico\\parcial1_progra2_fede_vazquez-main\\gym\\gym\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFC8D66-5603-4841-BF44-AE690440CC08}|Gym\\Gym.csproj|solutionrelative:gym\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Clase.cs",
-              "DocumentMoniker": "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\Models\\Clase.cs",
-              "RelativeDocumentMoniker": "Gym\\Models\\Clase.cs",
-              "ToolTip": "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\Models\\Clase.cs",
-              "RelativeToolTip": "Gym\\Models\\Clase.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T20:52:26.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Miembro.cs",
-              "DocumentMoniker": "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\Models\\Miembro.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\Models\\Miembro.cs",
               "RelativeDocumentMoniker": "Gym\\Models\\Miembro.cs",
-              "ToolTip": "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\Models\\Miembro.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\Models\\Miembro.cs",
               "RelativeToolTip": "Gym\\Models\\Miembro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T20:48:43.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\Models\\Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\Models\\Instructor.cs",
               "RelativeDocumentMoniker": "Gym\\Models\\Instructor.cs",
-              "ToolTip": "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\Models\\Instructor.cs",
               "RelativeToolTip": "Gym\\Models\\Instructor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T20:46:39.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\Models\\Clase.cs",
+              "RelativeDocumentMoniker": "Gym\\Models\\Clase.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\Models\\Clase.cs",
+              "RelativeToolTip": "Gym\\Models\\Clase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:52:26.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\Program.cs",
               "RelativeDocumentMoniker": "Gym\\Program.cs",
-              "ToolTip": "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\Program.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1\u002B\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\Program.cs",
               "RelativeToolTip": "Gym\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T20:45:29.673Z",
               "EditorCaption": ""

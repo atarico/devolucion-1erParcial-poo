@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\Gym.csproj": {}
+    "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\Gym.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\Gym.csproj": {
+    "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\Gym.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\Gym.csproj",
+        "projectUniqueName": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\Gym.csproj",
         "projectName": "Gym",
-        "projectPath": "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\Gym.csproj",
-        "packagesPath": "C:\\Users\\fvazquez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fvazquez\\Desktop\\repos\\parcial_progra2_17_09_24\\Gym\\Gym\\obj\\",
+        "projectPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\Gym.csproj",
+        "packagesPath": "C:\\Users\\atari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Vazquez Federico\\parcial1_progra2_Fede_Vazquez-main\\Gym\\Gym\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fvazquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\atari\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

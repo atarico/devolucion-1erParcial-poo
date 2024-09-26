@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\atari\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - frsn.utn.edu.ar\\Escritorio\\CARPETA C#\\Parcial 1 - POO\\Ejercico3\\Ejercico3.csproj",
+      "projectUniqueName": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Fiorito Greta\\Parcial-1---Fiorito-Greta-main\\Parcial 1 - POO\\Ejercico3\\Ejercico3.csproj",
       "projectName": "Ejercico3",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive - frsn.utn.edu.ar\\Escritorio\\CARPETA C#\\Parcial 1 - POO\\Ejercico3\\Ejercico3.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive - frsn.utn.edu.ar\\Escritorio\\CARPETA C#\\Parcial 1 - POO\\Ejercico3\\obj\\",
+      "projectPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Fiorito Greta\\Parcial-1---Fiorito-Greta-main\\Parcial 1 - POO\\Ejercico3\\Ejercico3.csproj",
+      "packagesPath": "C:\\Users\\atari\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial1+\\Antonito\\Parciales\\Fiorito Greta\\Parcial-1---Fiorito-Greta-main\\Parcial 1 - POO\\Ejercico3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\atari\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -71,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
