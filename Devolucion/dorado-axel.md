@@ -87,7 +87,7 @@ public void AgregarArreglo(ArregloFloral arreglo)
 
 El código tiene una estructura clara y modular, pero hay varios errores lógicos que impiden su correcto funcionamiento. Con algunos ajustes en la lógica de los métodos y el flujo del programa en el Main, se puede mejorar considerablemente.
 
-#### Puntaje total: **1 / 3**
+#### Puntaje total: _1 / 3_
 
 _Recomendación: Implementa las correcciones y completa el Main para verificar el comportamiento del programa._
 
@@ -95,7 +95,7 @@ _Recomendación: Implementa las correcciones y completa el Main para verificar e
 
 **No resuelto**
 
-#### Puntaje total: **0 / 4**
+#### Puntaje total: _0 / 4_
 
 ---
 
@@ -112,7 +112,7 @@ _Recomendación: Implementa las correcciones y completa el Main para verificar e
   <tr>
     <td align="center"></td>
     <td align="center">1</td>
-    <td align="center"></td>
+    <td align="center">0</td>
     <td align="center"></td>
     <td align="center">Desaprobado</td>
   </tr>

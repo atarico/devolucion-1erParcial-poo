@@ -15,7 +15,7 @@
 Algunas partes de la tipificación no son las más convenientes.
 Falta la propiedad que represente el estado entre vehículo y conductor, vehículo en `Conductor` o conductor en `Vehículo`.
 
-#### Puntaje total: **1 / 3pts**
+#### Puntaje total: _1 / 3_
 
 #### Ejercicio 2:
 
@@ -60,7 +60,7 @@ El programa se ve bien. Faltaron aplicar 1 pilar fundamental de la programación
 
 **¡Buen trabajo!**
 
-#### Puntaje total: **2 / 3 pts**
+#### Puntaje total: _2 / 3_
 
 ---
 
@@ -137,7 +137,7 @@ El sistema de gimnasio muestra una buena estructura y separación de responsabil
 
 **¡Buen trabajo!**
 
-#### Puntaje total: **2 / 4 pts**
+#### Puntaje total: _2 / 4_
 
 ---
 

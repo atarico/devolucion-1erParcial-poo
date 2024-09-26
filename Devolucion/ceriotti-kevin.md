@@ -22,7 +22,7 @@
 
 ---
 
-#### Puntaje total: **1.5 / 3pts**
+#### Puntaje total: _1.5 / 3_
 
 ### Ejercicio 2:
 
@@ -33,7 +33,7 @@
 Se crearon las clases `Flor`, `ArregloFloral` y `Pedido`, no se creo la clase `Cliente`.
 Se crea la clase `Program` con el `Main` pero no se ejecuta nada dentro de la función.
 
-#### Puntaje **total: 0 / 3 pts**
+#### Puntaje total: _0 / 3_
 
 ---
 
@@ -53,7 +53,7 @@ Se crea la clase `Program` con el `Main` pero no se ejecuta nada dentro de la fu
 
 Se crearon las clases `Miembro`, `Instructor` y `Clase` pero no se completaron en su totalidad.
 
-#### Puntaje **total: 1.5 / 4 pts**
+#### Puntaje total: _1.5 / 4_
 
 ---
 

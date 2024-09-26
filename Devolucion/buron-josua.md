@@ -21,7 +21,7 @@
 4. **_Saber próximo mantenimiento:_**
    La empresa desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo, para ello haría falta un método `CalcularProximoMantenimiento()` por ejemplo.
 
-#### Puntaje total: **1.5 / 3pts**
+#### Puntaje total: _1.5 / 3_
 
 ### Ejercicio 2:
 
@@ -137,7 +137,7 @@ El campo `Total` en `Pedido` podría eliminarse si calculas el total a partir de
 
 El código tiene una estructura bien organizada y un concepto claro, pero existen algunos errores lógicos y sintácticos que deben corregirse para mejorar
 
-#### Puntaje **total: 1.5 / 3 pts**
+#### Puntaje total: _1.5 / 3_
 
 ---
 
@@ -151,7 +151,7 @@ El diagrama es el que se crea por defecto.
 Se crearon las clases `Miembro`, `Instructor` y `Clase` pero no se le agregaron métodos.
 Se crea la clase `Program` con el `Main` pero no se ejecuta nada dentro de la función.
 
-#### Puntaje **total: 0 / 4 pts**
+#### Puntaje total: _0 / 4_
 
 ---
 

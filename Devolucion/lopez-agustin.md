@@ -103,7 +103,7 @@ class Cliente
 
 El código está bien estructurado y tiene una lógica clara en cuanto al manejo de las flores y arreglos florales. Sin embargo, hay problemas técnicos que impiden el correcto funcionamiento, como la recursión infinita en la propiedad Costo, errores en operadores y accesibilidad de los constructores. Además de que no existe la clase Program con su Main para ejecutar el código
 
-#### Puntaje Total: 1 / 3
+#### Puntaje Total: _1 / 3_
 
 ---
 
@@ -193,7 +193,7 @@ class Instructor
 
 El código tiene una estructura inicial sólida, pero presenta varios problemas técnicos relacionados con la accesibilidad de los constructores y el manejo de propiedades. Además, se debe mejorar el manejo de errores y corregir la recursión en las propiedades.
 
-#### Puntaje Total: 1 / 4
+#### Puntaje Total: _1 / 4_
 
 _Tiene potencial, pero requiere ajustes en los constructores, manejo de propiedades, y excepciones para ser funcional._
 

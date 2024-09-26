@@ -230,7 +230,7 @@ public void InscribirMiembro(Miembro miembro)
 }
 ```
 
-Evaluación General:
+### Evaluación General:
 
 El código muestra un buen intento de modelar un sistema para gestionar un gimnasio con clases, instructores y miembros. Sin embargo, hay varios errores lógicos que impiden su correcto funcionamiento, desde errores en asignaciones de variables hasta el uso incorrecto de métodos no existentes. Además, faltan algunas funcionalidades esenciales como la gestión de inscripciones y la actualización de la disponibilidad.
 

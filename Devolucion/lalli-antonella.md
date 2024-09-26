@@ -17,7 +17,7 @@ En este ejercicio solo se debía diagramar, no era necesario escribir su respect
 
 **¡Leer bien el enunciado!**
 
-#### Puntaje total: **2 / 3pts**
+#### Puntaje total: _2 / 3_
 
 ### Ejercicio 2:
 
@@ -69,7 +69,7 @@ La estructura general está bien, pero hay algunas cosas que podrían mejorarse,
 
 **¡Buen trabajo en general!**
 
-#### Puntaje total: **2 / 3 pts**
+#### Puntaje total: _2 / 3_
 
 ---
 
@@ -77,7 +77,7 @@ La estructura general está bien, pero hay algunas cosas que podrían mejorarse,
 
 **Ejercicio NO resuelto**
 
-#### Puntaje total: **0 / 4 pts**
+#### Puntaje total: _0 / 4_
 
 ---
 

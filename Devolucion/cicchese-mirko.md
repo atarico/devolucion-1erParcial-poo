@@ -42,7 +42,7 @@ Con algunos ajustes menores como la tipificación de listas, la eliminación de 
 
 **¡Muy buen trabajo!**
 
-#### Puntaje total: **2 / 3 pts**
+#### Puntaje total: _2 / 3_
 
 ---
 
@@ -104,7 +104,7 @@ Los métodos están bien definidos y la lógica es clara, pero sería útil aña
 
 **¡Buen trabajo!**
 
-#### Puntaje total: **2.5 / 4 pts**
+#### Puntaje total: _2.5 / 4_
 
 ---
 

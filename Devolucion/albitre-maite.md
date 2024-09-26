@@ -17,7 +17,7 @@ Para hallar más métodos observar los verbos en el enunciado.
 
 **¡Bien diagramado!**
 
-#### Puntaje total: **3 / 3pts**
+#### Puntaje total: _3 / 3_
 
 ---
 
@@ -75,7 +75,7 @@ El código tiene una buena estructura y está bien organizado. Buena comprensió
 
 **¡Muy buen trabajo!**
 
-#### Puntaje total: **3 / 3pts**
+#### Puntaje total: _3 / 3_
 
 ---
 
@@ -145,7 +145,7 @@ En general, el código es claro y funcional, pero con estos pequeños agregados 
 
 **¡Muy buen trabajo!**
 
-#### Puntaje total: **3 / 4 pts**
+#### Puntaje total: _3 / 4_
 
 ---
 
@@ -164,6 +164,6 @@ En general, el código es claro y funcional, pero con estos pequeños agregados 
     <td align="center">3</td>
     <td align="center">3</td>
     <td align="center">9</td>
-    <td align="center">Promovido</td>
+    <td align="center">Aprobado</td>
   </tr>
 </table>

@@ -22,7 +22,7 @@
 
 Se reconocieron bien todas las entidad junto a sus atributos, tener cuidado a la hora de elegir el nombre de las mismas, es conveniente que estén en singular.
 
-#### Puntaje total: **3 / 3pts**
+#### Puntaje total: _3 / 3_
 
 ### Ejercicio 2:
 
@@ -73,7 +73,7 @@ El código está muy bien estructurado y organizado, con pequeños detalles que 
 
 **¡Buen trabajo!**
 
-#### Puntaje total: **3 / 3 pts**
+#### Puntaje total: _3 / 3_
 
 ---
 
@@ -157,7 +157,7 @@ El código muestra una buena comprensión de los conceptos de orientación a obj
 
 **¡Muy buen trabajo!**
 
-#### Puntaje total: **4 / 4 pts**
+#### Puntaje total: _4 / 4_
 
 ---
 
@@ -176,6 +176,6 @@ El código muestra una buena comprensión de los conceptos de orientación a obj
     <td align="center">3</td>
     <td align="center">4</td>
     <td align="center">10</td>
-    <td align="center">Promovido</td>
+    <td align="center">Aprobado</td>
   </tr>
 </table>

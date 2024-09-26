@@ -117,7 +117,7 @@ Tu código tiene una estructura clara y modular, con un buen uso de clases, enca
 
 **¡Buen Trabajo!**
 
-#### Puntaje Total: **2 / 3**
+#### Puntaje Total: _2 / 3_
 
 ---
 
@@ -170,7 +170,7 @@ El código tiene una buena estructura y está muy bien organizado. Es claro y f�
 
 **¡Muy buen trabajo!**
 
-#### Puntaje Total: **4 / 4**
+#### Puntaje Total: _4 / 4_
 
 ---
 
