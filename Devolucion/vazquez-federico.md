@@ -7,7 +7,7 @@
 #### Observaciones
 
 1. **_Saber próximo mantenimiento y registrar mantenimiento:_**
-   La empresa quiere registrar mantenimientos de los vehículos y desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo , para ello haría falta los métodos `CalcularProximoMantenimiento()` y `RegistrarMantenimiento()` por ejemplo. Esto es responsabilidad del supervisor.
+   La empresa quiere registrar mantenimientos de los vehículos y desea saber cuándo se va realizar el siguiente mantenimiento de un vehículo, para ello haría falta los métodos `CalcularProximoMantenimiento()` y `RegistrarMantenimiento()` por ejemplo. Esto es responsabilidad del supervisor.
 
 2. **_Estado:_**
    Falta la asignación de ‘estado’ entre `Conductor` y `Vehículo`, es decir una propiedad conductor en `Vehículo` o una propiedad vehículo en `Conductor` para que la relación tenga sentido. Y esto es una relación de Asociación, ya que es mucho más fuerte que el uso del vehículo.

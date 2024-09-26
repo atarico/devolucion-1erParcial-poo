@@ -169,7 +169,7 @@ El código es sólido y con una sintaxis clara y entendible. Agregar un manejo a
   <tr>
     <td align="center">1.5</td>
     <td align="center">3</td>
-    <td align="center">3,5</td>
+    <td align="center">3.5</td>
     <td align="center">8</td>
     <td align="center">Aprobado</td>
   </tr>
