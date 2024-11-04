@@ -1,3 +1,17 @@
+## Diagrama:
+
+Demasiada complejidad agregada para un sistema pequeño.
+A la clase `Especialidad` le hace falta alguna propiedad; por cierto, esta clase no es necesaria.
+A la interfaz utilizada se le debe dar un nombre, por ejemplo: `<<interfaz>> IListaManipulable`.
+Faltan algunas cardinalidades.
+Muchas de las Composiciones propuestas no son correctas, hay entidades que pueden seguir existiendo independientemente, por ejemplo: un mecánico puede existir sin un trabajo.
+
+3/5
+
+---
+
+## Código:
+
 #### Puntos Positivos:
 
 - Validación de Datos
@@ -76,4 +90,4 @@ public int? Ano
 
 ### Evaluación General
 
-**Aprobado**
+**_Aprobado_**

@@ -1,3 +1,14 @@
+## Diagrama:
+
+Un `Cliente` puede tener más de un `Vehículo` lo cual lleva a que esta relación sea de Agregación/Composición (se debe reflejar en las propiedades: `- Vehiculos: Vehículo[]`). Pasa lo mismo con las demás clases, faltan poner las respectivas propiedades para tener coherencia con las relaciones.
+No era necesario una clase `Especialidad`.
+
+4/5
+
+---
+
+## Código:
+
 #### Puntos Positivos:
 
 - Uso de Enum para Tipos de Trabajo
@@ -66,4 +77,4 @@ public double Costototal
 
 ### Evaluación General:
 
-**Desaprobado**
+**_Desaprobado_**

@@ -1,3 +1,16 @@
+## Diagrama:
+
+Faltan métodos para trabajar con asignaciones y agregar elementos a las listas.
+Si la relación entre `Vehículo` y `Cliente` es bilateral, no debería haber una flecha indicando una unilateralidad; además esta relación sería una de tipo Agregación/Composición.
+En la clase `TarbajoReparacion`a la propiedad `TipoTrabajo` le falta su tipo.
+La clase `TallerMecanico` no es necesaria y no se marca una relación concreta con alguna otra clase.
+
+4/5
+
+---
+
+## Código:
+
 #### Puntos Positivos
 
 - Enumeración TipoTrabajo más clara y descriptiva
@@ -117,4 +130,4 @@ class Program
 
 ### Evaluación general:
 
-**Aprobado**
+**_Aprobado_**

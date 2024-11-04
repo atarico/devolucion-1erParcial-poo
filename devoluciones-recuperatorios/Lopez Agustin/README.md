@@ -1,3 +1,16 @@
+## Diagrama:
+
+Faltan parámetros en algunos métodos.
+Si se trabaja con listas, se deben tener 2 cosas en consideración, una es los métodos expuestos para interactuar con estas debido a la encapsulación de estas; y otra es ver la posibilidad de especificar la relación a una de tipo Agregación o Composición.
+Falta alguna propiedad para dar coherencia a la relación entre `Mecánico` y `TrabajoReparacion` al menos que sea de tipo Dependencia.
+Falta Cardinalidad!!
+
+3/5
+
+---
+
+## Código:
+
 #### Puntos Positivos:
 
 - Uso de Enumeraciones
@@ -35,4 +48,4 @@ public List<TrabajoReparacion> TrabajosRealizados = new List<TrabajoReparacion>(
 
 ### Evaluación General:
 
-**Aprobado**
+**_Aprobado_**

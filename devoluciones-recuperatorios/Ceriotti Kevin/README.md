@@ -1,3 +1,15 @@
+## Diagrama:
+
+En la clase `Cliente`, el método `+AgregarVehiculo():void`. ¿Como sabe que vehículo debe agregar? Falta el parámetro. Y al tener una lista de vehículos se debe considerar una relación del tipo Agregación/Composición. ¿Un `Vehículo` puede tener muchos Clientes?
+La relación entre`Mecánico`y`Vehículo` no es necesaria, el mecánico interactúa con un trabajo/reparación de un vehículo.
+Falta por lo menos un `enum` para el tipo de trabajo/reparación que se hace.
+
+3/5
+
+---
+
+## Código:
+
 #### Puntos Positivos
 
 - Implementación de numeración automática de clientes
@@ -155,4 +167,4 @@ class Program
 
 ### Evaluación general:
 
-**Aprobado**
+**_Aprobado_**

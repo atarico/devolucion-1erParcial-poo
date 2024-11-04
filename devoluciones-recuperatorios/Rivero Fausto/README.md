@@ -1,3 +1,15 @@
+## Diagrama:
+
+Faltan parámetros a los métodos de asignación; ¿sino como sé que debo asignar a qué?
+Un `Trabajo` puede ser realizado por más de un `Mecánico`. Si la respuesta es ‘SI’, la propiedad dentro de `Trabajo` debe ser una lista.
+Al trabajar con listas se debe tener en cuenta la posibilidad de usar relaciones de tipo Agregación o Composición, especialmente cuando usas una cardinalidad “`1…*`”.
+
+5/5
+
+---
+
+## Código:
+
 #### Observaciones y Mejoras:
 
 1. **_Clases Incompletas y Falta de Propiedades:_**
@@ -17,4 +29,4 @@
 
 Evaluación General:
 
-**Desaprobado**
+**_Desaprobado_**

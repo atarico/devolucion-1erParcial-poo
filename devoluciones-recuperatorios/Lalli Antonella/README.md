@@ -1,3 +1,15 @@
+## Diagrama:
+
+Faltan parámetros a algunos métodos.
+Un `Mecánico` debería estar asociado a un `ServicioDeTrabajo`.
+Si se está trabajando con listas es necesario considerar las relaciones de tipo Agregación o Composición dependiendo el caso.
+
+4/5
+
+---
+
+## Código:
+
 #### Puntos Positivos
 
 - Organización de namespaces
@@ -42,4 +54,4 @@ catch (ArgumentException ex)
 
 ### Evaluación General
 
-**Aprobado**
+**_Aprobado_**

@@ -1,3 +1,18 @@
+## Diagrama:
+
+Faltan propiedades para dar coherencia a las relaciones, por ejemplo, entre `vehículo` y `tarbajoReparacion`.
+Faltan cardinalidades.
+Hay muchas relaciones conjuntas que no tienen sentido.
+Un mecánico solo se va a relacionar con el tarbajo/reparación que hace.
+La clase `sistemaTaller` no es necesaria.
+Faltan parámetros a algunos métodos.
+
+2/5
+
+---
+
+## Código:
+
 #### Puntos Positivos
 
 - Encapsulamiento
@@ -33,4 +48,4 @@ public double Costo
 
 ### Evaluación General
 
-**Aprobado**
+**_Aprobado_**

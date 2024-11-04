@@ -1,3 +1,16 @@
+## Diagrama:
+
+Falta cardinalidad.
+`Mecánico` no tiene relación con `Vehículo`, solo con el trabajo/reparación de este.
+Faltan propiedades para dar coherencia al estado entre entidades, por ejemplo: propiedad vehículos dentro de cliente, o propiedad cliente dentro de vehículo: o colocar ambos si se considera una relación bilateral.
+La relación entre `Vehículo` y `Cliente` no es Dependencia. Considerar Asociación y también Agregación o Composición si se trabaja con listas, así como también agregar métodos para trabajar con estas listas (asignar, agregar, etc.)
+
+3/5
+
+---
+
+## Código:
+
 #### Observaciones y Mejoras:
 
 1. **_Método MostrarDetalles Incompleto en Vehiculo:_**
@@ -17,4 +30,4 @@
 
 ### Evaluación General:
 
-**Desaprobado**
+**_Desaprobado_**
