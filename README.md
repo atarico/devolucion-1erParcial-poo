@@ -29,7 +29,7 @@
         No entrego
       </td>
       <td>-</td>
-      <td>-</td>
+      <td><a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/devoluciones-recuperatorios/Araya Ariana/README.md">Devolución→</a></td>
     </tr>
     <tr>
       <td>Buron, Josua Benjamin</td>
@@ -38,7 +38,7 @@
         <a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/Devolucion/buron-josua.md">Ir a devolución→</a>
       </td>
       <td>-</td>
-      <td>-</td>
+      <td><a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/devoluciones-recuperatorios/Buron Benjamin/README.md">Devolución→</a></td>
     </tr>
     <tr>
       <td>Cicchese, Mirko Gabriel</td>
@@ -47,7 +47,7 @@
         <a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/Devolucion/cicchese-mirko.md">Ir a devolución→</a>
       </td>
       <td>-</td>
-      <td>-</td>
+      <td><a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/devoluciones-recuperatorios/Cicchese Mirko/README.md">Devolución→</a></td>
     </tr>
     <tr>
       <td>Dorado, Axel Daniel</td>
@@ -88,7 +88,7 @@
         <a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/Devolucion/lacomba-tomas.md">Ir a devolución→</a>
       </td>
       <td>-</td>
-      <td>-</td>
+      <td><a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/devoluciones-recuperatorios/Lacomba Tomas/README.md">Devolución→</a></td>
     </tr>
     <tr>
       <td>Lalli, Antonella Lidia</td>
@@ -97,7 +97,7 @@
         <a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/Devolucion/lalli-antonella.md">Ir a devolución→</a>
       </td>
       <td>-</td>
-      <td>-</td>
+      <td><a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/devoluciones-recuperatorios/Lalli Antonella/README.md">Devolución→</a></td>
     </tr>
     <tr>
       <td>Lopez, Agustin Bautista</td>
@@ -106,7 +106,7 @@
         <a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/Devolucion/lopez-agustin.md">Ir a devolución→</a>
       </td>
       <td>-</td>
-      <td>-</td>
+      <td><a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/devoluciones-recuperatorios/Lopez Agustin/README.md">Devolución→</a></td>
     </tr>
     <tr>
       <td>Marraccini, Daniel Hugo David</td>
@@ -115,7 +115,7 @@
         No entrego
       </td>
       <td>-</td>
-      <td>-</td>
+      <td><a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/devoluciones-recuperatorios/Marraccini Daniel/README.md">Devolución→</a></td>
     </tr>
     <tr>
       <td>Martini Quinteros, Lucas Gabriel</td>
@@ -140,7 +140,7 @@
         <a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/Devolucion/rivero-fausto.md">Ir a devolución→</a>
       </td>
       <td>-</td>
-      <td>-</td>
+      <td><a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/devoluciones-recuperatorios/Rivero Fausto/README.md">Devolución→</a></td>
     </tr>
     <tr>
       <td>Toro, Angel Nicolás</td>
@@ -157,7 +157,7 @@
         <a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/Devolucion/ceriotti-kevin.md">Ir a devolución→</a>
       </td>
       <td>-</td>
-      <td>-</td>
+      <td><a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/devoluciones-recuperatorios/Ceriotti Kevin/README.md">Devolución→</a></td>
     </tr>
     <tr>
       <td>Vazquez, Federico Nicolas</td>
@@ -174,7 +174,7 @@
         <a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/Devolucion/vignoles-mauro.md">Ir a devolución→</a>
       </td>
       <td>-</td>
-      <td>-</td>
+      <td><a href="https://github.com/atarico/devolucion-1erParcial-poo/blob/main/devoluciones-recuperatorios/Vignoles Mauro/README.md">Devolución→</a></td>
     </tr>
   </tbody>
 </table>
