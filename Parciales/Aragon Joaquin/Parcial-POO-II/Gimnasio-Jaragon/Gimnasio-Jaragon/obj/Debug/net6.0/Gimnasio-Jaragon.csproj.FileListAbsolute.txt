@@ -1,0 +1,15 @@
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\bin\Debug\net6.0\Gimnasio-Jaragon.exe
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\bin\Debug\net6.0\Gimnasio-Jaragon.deps.json
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\bin\Debug\net6.0\Gimnasio-Jaragon.runtimeconfig.json
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\bin\Debug\net6.0\Gimnasio-Jaragon.dll
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\bin\Debug\net6.0\Gimnasio-Jaragon.pdb
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\obj\Debug\net6.0\Gimnasio-Jaragon.csproj.AssemblyReference.cache
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\obj\Debug\net6.0\Gimnasio-Jaragon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\obj\Debug\net6.0\Gimnasio-Jaragon.AssemblyInfoInputs.cache
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\obj\Debug\net6.0\Gimnasio-Jaragon.AssemblyInfo.cs
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\obj\Debug\net6.0\Gimnasio-Jaragon.csproj.CoreCompileInputs.cache
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\obj\Debug\net6.0\Gimnasio-Jaragon.dll
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\obj\Debug\net6.0\refint\Gimnasio-Jaragon.dll
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\obj\Debug\net6.0\Gimnasio-Jaragon.pdb
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\obj\Debug\net6.0\Gimnasio-Jaragon.genruntimeconfig.cache
+C:\Users\jaragon\source\repos\Gimnasio-Jaragon\Gimnasio-Jaragon\obj\Debug\net6.0\ref\Gimnasio-Jaragon.dll

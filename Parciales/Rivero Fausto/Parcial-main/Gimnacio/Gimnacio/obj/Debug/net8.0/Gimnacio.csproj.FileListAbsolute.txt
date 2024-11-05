@@ -1,0 +1,9 @@
+C:\Users\frivero\source\repos\Gimnacio\Gimnacio\obj\Debug\net8.0\Gimnacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frivero\source\repos\Gimnacio\Gimnacio\obj\Debug\net8.0\Gimnacio.AssemblyInfoInputs.cache
+C:\Users\frivero\source\repos\Gimnacio\Gimnacio\obj\Debug\net8.0\Gimnacio.AssemblyInfo.cs
+C:\Users\frivero\source\repos\Gimnacio\Gimnacio\obj\Debug\net8.0\Gimnacio.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Rivero Fausto\Parcial-main\Gimnacio\Gimnacio\obj\Debug\net8.0\Gimnacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Rivero Fausto\Parcial-main\Gimnacio\Gimnacio\obj\Debug\net8.0\Gimnacio.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Rivero Fausto\Parcial-main\Gimnacio\Gimnacio\obj\Debug\net8.0\Gimnacio.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Rivero Fausto\Parcial-main\Gimnacio\Gimnacio\obj\Debug\net8.0\Gimnacio.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\UTN\segundoCuatrimestre2024\prog2-TT\parcial1+\Antonito\Parciales\Rivero Fausto\Parcial-main\Gimnacio\Gimnacio\obj\Debug\net8.0\Gimnacio.sourcelink.json

@@ -1,0 +1,14 @@
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\obj\Debug\net6.0\Punto2_Albitre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\obj\Debug\net6.0\Punto2_Albitre.AssemblyInfoInputs.cache
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\obj\Debug\net6.0\Punto2_Albitre.AssemblyInfo.cs
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\obj\Debug\net6.0\Punto2_Albitre.csproj.CoreCompileInputs.cache
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\bin\Debug\net6.0\Punto2_Albitre.exe
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\bin\Debug\net6.0\Punto2_Albitre.deps.json
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\bin\Debug\net6.0\Punto2_Albitre.runtimeconfig.json
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\bin\Debug\net6.0\Punto2_Albitre.dll
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\bin\Debug\net6.0\Punto2_Albitre.pdb
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\obj\Debug\net6.0\Punto2_Albitre.dll
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\obj\Debug\net6.0\refint\Punto2_Albitre.dll
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\obj\Debug\net6.0\Punto2_Albitre.pdb
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\obj\Debug\net6.0\Punto2_Albitre.genruntimeconfig.cache
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto2_Albitre\obj\Debug\net6.0\ref\Punto2_Albitre.dll

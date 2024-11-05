@@ -1,0 +1,14 @@
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\bin\Debug\net6.0\Punto3_Albitre.exe
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\bin\Debug\net6.0\Punto3_Albitre.deps.json
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\bin\Debug\net6.0\Punto3_Albitre.runtimeconfig.json
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\bin\Debug\net6.0\Punto3_Albitre.dll
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\bin\Debug\net6.0\Punto3_Albitre.pdb
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\obj\Debug\net6.0\Punto3_Albitre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\obj\Debug\net6.0\Punto3_Albitre.AssemblyInfoInputs.cache
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\obj\Debug\net6.0\Punto3_Albitre.AssemblyInfo.cs
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\obj\Debug\net6.0\Punto3_Albitre.csproj.CoreCompileInputs.cache
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\obj\Debug\net6.0\Punto3_Albitre.dll
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\obj\Debug\net6.0\refint\Punto3_Albitre.dll
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\obj\Debug\net6.0\Punto3_Albitre.pdb
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\obj\Debug\net6.0\Punto3_Albitre.genruntimeconfig.cache
+C:\Users\malbitre\source\repos\Punto2_Albitre\Punto3_Albitre\obj\Debug\net6.0\ref\Punto3_Albitre.dll

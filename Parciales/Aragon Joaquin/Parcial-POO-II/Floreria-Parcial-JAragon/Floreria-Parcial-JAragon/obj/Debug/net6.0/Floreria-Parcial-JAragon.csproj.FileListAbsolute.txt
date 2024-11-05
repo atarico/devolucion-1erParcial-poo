@@ -1,0 +1,15 @@
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\bin\Debug\net6.0\Floreria-Parcial-JAragon.exe
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\bin\Debug\net6.0\Floreria-Parcial-JAragon.deps.json
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\bin\Debug\net6.0\Floreria-Parcial-JAragon.runtimeconfig.json
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\bin\Debug\net6.0\Floreria-Parcial-JAragon.dll
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\bin\Debug\net6.0\Floreria-Parcial-JAragon.pdb
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\obj\Debug\net6.0\Floreria-Parcial-JAragon.csproj.AssemblyReference.cache
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\obj\Debug\net6.0\Floreria-Parcial-JAragon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\obj\Debug\net6.0\Floreria-Parcial-JAragon.AssemblyInfoInputs.cache
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\obj\Debug\net6.0\Floreria-Parcial-JAragon.AssemblyInfo.cs
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\obj\Debug\net6.0\Floreria-Parcial-JAragon.csproj.CoreCompileInputs.cache
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\obj\Debug\net6.0\Floreria-Parcial-JAragon.dll
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\obj\Debug\net6.0\refint\Floreria-Parcial-JAragon.dll
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\obj\Debug\net6.0\Floreria-Parcial-JAragon.pdb
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\obj\Debug\net6.0\Floreria-Parcial-JAragon.genruntimeconfig.cache
+C:\Users\jaragon\source\repos\Floreria-Parcial-JAragon\Floreria-Parcial-JAragon\obj\Debug\net6.0\ref\Floreria-Parcial-JAragon.dll

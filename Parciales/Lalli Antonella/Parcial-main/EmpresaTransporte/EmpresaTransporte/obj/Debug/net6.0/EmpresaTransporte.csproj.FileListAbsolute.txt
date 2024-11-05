@@ -1,0 +1,15 @@
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\bin\Debug\net6.0\EmpresaTransporte.exe
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\bin\Debug\net6.0\EmpresaTransporte.deps.json
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\bin\Debug\net6.0\EmpresaTransporte.runtimeconfig.json
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\bin\Debug\net6.0\EmpresaTransporte.dll
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\bin\Debug\net6.0\EmpresaTransporte.pdb
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\obj\Debug\net6.0\EmpresaTransporte.csproj.AssemblyReference.cache
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\obj\Debug\net6.0\EmpresaTransporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\obj\Debug\net6.0\EmpresaTransporte.AssemblyInfoInputs.cache
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\obj\Debug\net6.0\EmpresaTransporte.AssemblyInfo.cs
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\obj\Debug\net6.0\EmpresaTransporte.csproj.CoreCompileInputs.cache
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\obj\Debug\net6.0\EmpresaTransporte.dll
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\obj\Debug\net6.0\refint\EmpresaTransporte.dll
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\obj\Debug\net6.0\EmpresaTransporte.pdb
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\obj\Debug\net6.0\EmpresaTransporte.genruntimeconfig.cache
+C:\Users\alalli\source\repos\EmpresaTransporte\EmpresaTransporte\obj\Debug\net6.0\ref\EmpresaTransporte.dll

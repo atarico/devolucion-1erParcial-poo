@@ -1,0 +1,14 @@
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\bin\Debug\net7.0\Recuperatorio.exe
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\bin\Debug\net7.0\Recuperatorio.deps.json
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\bin\Debug\net7.0\Recuperatorio.runtimeconfig.json
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\bin\Debug\net7.0\Recuperatorio.dll
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\bin\Debug\net7.0\Recuperatorio.pdb
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\obj\Debug\net7.0\Recuperatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\obj\Debug\net7.0\Recuperatorio.AssemblyInfoInputs.cache
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\obj\Debug\net7.0\Recuperatorio.AssemblyInfo.cs
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\obj\Debug\net7.0\Recuperatorio.csproj.CoreCompileInputs.cache
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\obj\Debug\net7.0\Recuperatorio.dll
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\obj\Debug\net7.0\refint\Recuperatorio.dll
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\obj\Debug\net7.0\Recuperatorio.pdb
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\obj\Debug\net7.0\Recuperatorio.genruntimeconfig.cache
+C:\Users\mcicchese\source\repos\Recuperatorio\Recuperatorio\obj\Debug\net7.0\ref\Recuperatorio.dll
