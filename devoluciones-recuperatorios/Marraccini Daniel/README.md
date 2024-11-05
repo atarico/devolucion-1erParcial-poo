@@ -6,7 +6,7 @@ A la interfaz utilizada se le debe dar un nombre, por ejemplo: `<<interfaz>> ILi
 Faltan algunas cardinalidades.
 Muchas de las Composiciones propuestas no son correctas, hay entidades que pueden seguir existiendo independientemente, por ejemplo: un mecánico puede existir sin un trabajo.
 
-3/5
+#### 3/5
 
 ---
 
@@ -19,6 +19,8 @@ Muchas de las Composiciones propuestas no son correctas, hay entidades que puede
 - Relaciones Claras
 
 #### Observaciones y Mejoras:
+
+**_No se realizó la modularización de archivos_**
 
 1. **_Condición Invertida en Método Quitar en Taller:_**
    La lógica en el método Quitar de la clase Taller está invertida. En lugar de verificar si el mecánico no existe para mostrar un mensaje, debería comprobar si existe y, en ese caso, eliminarlo.
@@ -88,6 +90,8 @@ public int? Ano
     }
 ```
 
+#### 3/5
+
 ### Evaluación General
 
-**_Aprobado_**
+#### 6/10

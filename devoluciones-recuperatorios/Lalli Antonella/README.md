@@ -4,7 +4,7 @@ Faltan parámetros a algunos métodos.
 Un `Mecánico` debería estar asociado a un `ServicioDeTrabajo`.
 Si se está trabajando con listas es necesario considerar las relaciones de tipo Agregación o Composición dependiendo el caso.
 
-4/5
+#### 4/5
 
 ---
 
@@ -52,6 +52,8 @@ catch (ArgumentException ex)
 }
 ```
 
+#### 4/5
+
 ### Evaluación General
 
-**_Aprobado_**
+#### 8/10

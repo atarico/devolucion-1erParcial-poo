@@ -4,7 +4,7 @@ Faltan parámetros a los métodos de asignación; ¿sino como sé que debo asign
 Un `Trabajo` puede ser realizado por más de un `Mecánico`. Si la respuesta es ‘SI’, la propiedad dentro de `Trabajo` debe ser una lista.
 Al trabajar con listas se debe tener en cuenta la posibilidad de usar relaciones de tipo Agregación o Composición, especialmente cuando usas una cardinalidad “`1…*`”.
 
-5/5
+#### 5/5
 
 ---
 
@@ -27,6 +27,8 @@ Al trabajar con listas se debe tener en cuenta la posibilidad de usar relaciones
 5. **_Agregar Enumeración TipoEspecialidad:_**
    No se encuentra la definición para TipoEspecialidad. Se podría agregar como un enum en el archivo de mecanico.
 
-Evaluación General:
+#### 0/5
 
-**_Desaprobado_**
+### Evaluación General:
+
+#### 5/10

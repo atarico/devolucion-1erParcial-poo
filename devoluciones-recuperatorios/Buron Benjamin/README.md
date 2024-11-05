@@ -5,7 +5,7 @@ Si la relación entre `Vehículo` y `Cliente` es bilateral, no debería haber un
 En la clase `TarbajoReparacion`a la propiedad `TipoTrabajo` le falta su tipo.
 La clase `TallerMecanico` no es necesaria y no se marca una relación concreta con alguna otra clase.
 
-4/5
+#### 4/5
 
 ---
 
@@ -128,6 +128,8 @@ class Program
 }
 ```
 
+#### 4/5
+
 ### Evaluación general:
 
-**_Aprobado_**
+#### 8/10

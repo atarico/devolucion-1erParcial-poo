@@ -5,7 +5,7 @@ Si se trabaja con listas, se deben tener 2 cosas en consideración, una es los m
 Falta alguna propiedad para dar coherencia a la relación entre `Mecánico` y `TrabajoReparacion` al menos que sea de tipo Dependencia.
 Falta Cardinalidad!!
 
-3/5
+#### 3/5
 
 ---
 
@@ -46,6 +46,8 @@ summer += var;
 public List<TrabajoReparacion> TrabajosRealizados = new List<TrabajoReparacion>();
 ```
 
+#### 4/5
+
 ### Evaluación General:
 
-**_Aprobado_**
+#### 7/10

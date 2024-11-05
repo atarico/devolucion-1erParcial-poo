@@ -3,7 +3,7 @@
 Un `Cliente` puede tener más de un `Vehículo` lo cual lleva a que esta relación sea de Agregación/Composición (se debe reflejar en las propiedades: `- Vehiculos: Vehículo[]`). Pasa lo mismo con las demás clases, faltan poner las respectivas propiedades para tener coherencia con las relaciones.
 No era necesario una clase `Especialidad`.
 
-4/5
+#### 4/5
 
 ---
 
@@ -16,6 +16,8 @@ No era necesario una clase `Especialidad`.
 - Uso apropiado de listas para manejar colecciones
 
 ### Observaciones y Mejoras:
+
+**_El código tiene multiples errores que no permiten su compilación._**
 
 1.  **_Constructor Cliente en Main:_**
     El constructor de Cliente en Main está llamándose sin el parámetro Vehiculo, que es requerido en el constructor de Cliente.
@@ -75,6 +77,8 @@ public double Costototal
     }
 ```
 
+#### 2/5
+
 ### Evaluación General:
 
-**_Desaprobado_**
+#### 6/10

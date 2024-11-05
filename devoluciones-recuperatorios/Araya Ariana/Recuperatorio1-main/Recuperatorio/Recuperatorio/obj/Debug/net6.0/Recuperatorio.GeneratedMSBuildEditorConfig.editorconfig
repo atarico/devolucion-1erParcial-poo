@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Recuperatorio
-build_property.ProjectDir = C:\Users\aaraya\source\repos\Recuperatorio\Recuperatorio\
+build_property.ProjectDir = C:\Users\atari\OneDrive\Escritorio\subir-notas\devolucion-1erParcial-poo\devoluciones-recuperatorios\Araya Ariana\Recuperatorio1-main\Recuperatorio\Recuperatorio\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Recuperatorio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebccd96de6c4e7f7e425348e46512cce36a0a349")]
 [assembly: System.Reflection.AssemblyProductAttribute("Recuperatorio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Recuperatorio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

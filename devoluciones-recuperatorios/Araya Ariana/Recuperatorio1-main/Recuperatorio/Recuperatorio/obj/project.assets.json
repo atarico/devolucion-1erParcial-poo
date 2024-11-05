@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial-1\\parcial1-recuperatorio\\devoluciones-recuperatorios\\Araya Ariana\\Recuperatorio1-main\\Recuperatorio\\Recuperatorio\\Recuperatorio.csproj",
+      "projectUniqueName": "C:\\Users\\atari\\OneDrive\\Escritorio\\subir-notas\\devolucion-1erParcial-poo\\devoluciones-recuperatorios\\Araya Ariana\\Recuperatorio1-main\\Recuperatorio\\Recuperatorio\\Recuperatorio.csproj",
       "projectName": "Recuperatorio",
-      "projectPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial-1\\parcial1-recuperatorio\\devoluciones-recuperatorios\\Araya Ariana\\Recuperatorio1-main\\Recuperatorio\\Recuperatorio\\Recuperatorio.csproj",
+      "projectPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\subir-notas\\devolucion-1erParcial-poo\\devoluciones-recuperatorios\\Araya Ariana\\Recuperatorio1-main\\Recuperatorio\\Recuperatorio\\Recuperatorio.csproj",
       "packagesPath": "C:\\Users\\atari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\UTN\\segundoCuatrimestre2024\\prog2-TT\\parcial-1\\parcial1-recuperatorio\\devoluciones-recuperatorios\\Araya Ariana\\Recuperatorio1-main\\Recuperatorio\\Recuperatorio\\obj\\",
+      "outputPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\subir-notas\\devolucion-1erParcial-poo\\devoluciones-recuperatorios\\Araya Ariana\\Recuperatorio1-main\\Recuperatorio\\Recuperatorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\atari\\AppData\\Roaming\\NuGet\\NuGet.Config",

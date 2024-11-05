@@ -3,7 +3,7 @@
 Al trabajar con listas se debe considerar la relación de tipo Agregación/Composición.
 La relación entre `Mecánico` y `Trabajo` podría ser de tipo Asociación ya que un mecánico puede hacer más de un trabajo.
 
-5/5
+#### 5/5
 
 ---
 
@@ -130,6 +130,8 @@ class Program
 }
 ```
 
+#### 4/5
+
 ### Evaluación general:
 
-**_Aprobado_**
+#### 9/10

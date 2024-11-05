@@ -7,7 +7,7 @@ Un mecánico solo se va a relacionar con el tarbajo/reparación que hace.
 La clase `sistemaTaller` no es necesaria.
 Faltan parámetros a algunos métodos.
 
-2/5
+#### 2/5
 
 ---
 
@@ -16,11 +16,12 @@ Faltan parámetros a algunos métodos.
 #### Puntos Positivos
 
 - Encapsulamiento
-- Organización
 - Uso de IReadOnlyList
 - Asignación de Mecánicos
 
 #### Observaciones y Mejoras
+
+**_No se realizó la modularización de archivos_**
 
 1. **_Método MostrarVehiculosYTrabajos en Cliente:_** El método realiza un Console.WriteLine para cada trabajo, pero podrías usar un StringBuilder para optimizar la concatenación y facilitar su modificación o extensión en el futuro.
 
@@ -38,7 +39,7 @@ public double Costo
             TipoReparacion.Mecanica => 150,
             TipoReparacion.Electrica => 200,
             TipoReparacion.Pintura => 250,
-            \_ => 100
+            _ => 100
         };
     }
 }
@@ -46,6 +47,8 @@ public double Costo
 
 4. **_Asignación de la Lista de Mecánicos:_** En la clase SistemaTaller, podrías validar si un cliente ya tiene un mecánico asignado antes de agregar uno nuevo.
 
+#### 3/5
+
 ### Evaluación General
 
-**_Aprobado_**
+#### 5/10

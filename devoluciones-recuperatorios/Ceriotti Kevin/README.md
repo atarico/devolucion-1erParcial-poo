@@ -4,7 +4,7 @@ En la clase `Cliente`, el método `+AgregarVehiculo():void`. ¿Como sabe que veh
 La relación entre`Mecánico`y`Vehículo` no es necesaria, el mecánico interactúa con un trabajo/reparación de un vehículo.
 Falta por lo menos un `enum` para el tipo de trabajo/reparación que se hace.
 
-3/5
+#### 3/5
 
 ---
 
@@ -165,6 +165,8 @@ class Program
 }
 ```
 
+#### 3/5
+
 ### Evaluación general:
 
-**_Aprobado_**
+#### 6/10

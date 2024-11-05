@@ -5,7 +5,7 @@ Falta cardinalidad.
 Faltan propiedades para dar coherencia al estado entre entidades, por ejemplo: propiedad vehículos dentro de cliente, o propiedad cliente dentro de vehículo: o colocar ambos si se considera una relación bilateral.
 La relación entre `Vehículo` y `Cliente` no es Dependencia. Considerar Asociación y también Agregación o Composición si se trabaja con listas, así como también agregar métodos para trabajar con estas listas (asignar, agregar, etc.)
 
-3/5
+#### 3/5
 
 ---
 
@@ -28,6 +28,8 @@ La relación entre `Vehículo` y `Cliente` no es Dependencia. Considerar Asociac
 5. **_Falta de Validación en Constructores:_**
    Los constructores no validan los parámetros, lo que puede llevar a problemas si se crean objetos con valores no válidos.
 
+#### 0/5
+
 ### Evaluación General:
 
-**_Desaprobado_**
+#### 5/10
