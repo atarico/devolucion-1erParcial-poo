@@ -1,5 +1,0 @@
-C:\Users\ablopez\source\repos\Taller\Taller\obj\Debug\net6.0\Taller.csproj.AssemblyReference.cache
-C:\Users\ablopez\source\repos\Taller\Taller\obj\Debug\net6.0\Taller.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ablopez\source\repos\Taller\Taller\obj\Debug\net6.0\Taller.AssemblyInfoInputs.cache
-C:\Users\ablopez\source\repos\Taller\Taller\obj\Debug\net6.0\Taller.AssemblyInfo.cs
-C:\Users\ablopez\source\repos\Taller\Taller\obj\Debug\net6.0\Taller.csproj.CoreCompileInputs.cache
