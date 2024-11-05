@@ -28,7 +28,7 @@ La relación entre `Vehículo` y `Cliente` no es Dependencia. Considerar Asociac
 5. **_Falta de Validación en Constructores:_**
    Los constructores no validan los parámetros, lo que puede llevar a problemas si se crean objetos con valores no válidos.
 
-#### 0/5
+#### 2/5
 
 ### Evaluación General:
 
